@@ -49,22 +49,6 @@ export default {
     redirectConfirmations: 3,
 
     groups: {
-        "html-b1-2026-template": {
-            showHealth: true,
-            showEmbed: true,
-            compareEligible: false,
-
-            excludeFromPerfectScores: true,
-            name: "html-b1-2026-template",
-            enabled: true,
-            description: "Projet template de page HTML hébergée sur Github Pages",
-            sites: [
-                {url: "https://coda-dijon.github.io/html-b1-2026-template/index.html"},
-                {url: "https://coda-dijon.github.io/html-b1-2026-template/"}, // Readme
-                {url: "https://coda-dijon.github.io/html-b1-2026-template/docs/Github-Pages"},
-                {url: "https://coda-dijon.github.io/html-b1-2026-template/docs/Serveur-http"},
-            ],
-        },
         "html-b1-2026-g1": {
             name: "html-b1-2026-g1",
             enabled: true,
@@ -127,7 +111,6 @@ export default {
             description: "Quelques autres sites de Coda Dijon analysés",
             sites: [
                 {url: "https://coda-dijon.github.io/crack-me/"},
-                {url: "https://coda-dijon.github.io/developper-avec-conscience/"},
             ],
         },
 
