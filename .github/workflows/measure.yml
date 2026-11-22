@@ -23,7 +23,7 @@ on:
       batch:
         description: "Sites per shard this run"
         type: string
-        default: "20"
+        default: "2"
       force:
         description: "Ignore the freshness window"
         type: boolean
