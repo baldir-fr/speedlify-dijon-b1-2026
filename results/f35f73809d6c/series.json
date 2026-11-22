@@ -1,0 +1,3 @@
+{"version":1,"url":"https://coda-dijon.github.io/html-b1-2026-g3","updated":"2026-11-22T16:57:20.053Z","points":[
+{"t":1795366604136,"performance":100,"accessibility":50,"best-practices":92,"seo":80,"lcp":771,"cls":0,"tbt":0,"fcp":771,"si":771,"ttfb":614,"total":5897,"requests":3,"bytes":0,"mainThreadMs":0,"unusedJsBytes":0,"unusedCssBytes":0,"mainThreadTotal":69.4,"longTasks":0,"failingCount":3,"failingNodes":3,"axeViolations":4,"axePasses":2,"bench":2746.5,"runs":3,"reqRuns":3,"ms":35842,"spread":0}
+]}
