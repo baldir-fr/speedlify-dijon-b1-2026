@@ -54,7 +54,7 @@ export default {
             enabled: true,
             description: "Groupe 1 : Projet HTML CSS des B1 Coda Dijon 2026",
             sites: [
-                {url: "https://coda-dijon.github.io/html-b1-2026-g1/index.html"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g1/"},
             ],
         },
         "html-b1-2026-g2": {
@@ -62,7 +62,7 @@ export default {
             enabled: true,
             description: "Groupe 2 : Projet HTML CSS des B1 Coda Dijon 2026",
             sites: [
-                {url: "https://coda-dijon.github.io/html-b1-2026-g2/index.html"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g2/"},
             ],
         },
         "html-b1-2026-g3": {
@@ -70,7 +70,7 @@ export default {
             enabled: true,
             description: "Groupe 3 : Projet HTML CSS des B1 Coda Dijon 2026",
             sites: [
-                {url: "https://coda-dijon.github.io/html-b1-2026-g3/index.html"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g3/"},
             ],
         },
         "html-b1-2026-g4": {
@@ -78,7 +78,7 @@ export default {
             enabled: true,
             description: "Groupe 4 : Projet HTML CSS des B1 Coda Dijon 2026",
             sites: [
-                {url: "https://coda-dijon.github.io/html-b1-2026-g4/index.html"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g4/"},
             ],
         },
         "html-b1-2026-g5": {
@@ -86,7 +86,7 @@ export default {
             enabled: true,
             description: "Groupe 5 : Projet HTML CSS des B1 Coda Dijon 2026",
             sites: [
-                {url: "https://coda-dijon.github.io/html-b1-2026-g5/index.html"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g5/"},
             ],
         },
         "html-b1-2026-g6": {
@@ -94,7 +94,7 @@ export default {
             enabled: true,
             description: "Groupe 6 : Projet HTML CSS des B1 Coda Dijon 2026",
             sites: [
-                {url: "https://coda-dijon.github.io/html-b1-2026-g6/index.html"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g6/"},
             ],
         },
         "html-b1-2026-g7": {
@@ -102,7 +102,7 @@ export default {
             enabled: true,
             description: "Groupe 7 : Projet HTML CSS des B1 Coda Dijon 2026",
             sites: [
-                {url: "https://coda-dijon.github.io/html-b1-2026-g7/index.html"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g7/"},
             ],
         },
         "autres-sites-coda-dijon": {
