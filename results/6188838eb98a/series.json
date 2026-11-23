@@ -1,3 +1,4 @@
-{"version":1,"url":"https://coda-dijon.github.io/html-b1-2026-g6","updated":"2026-11-22T17:09:11.308Z","points":[
-{"t":1795367317880,"performance":100,"accessibility":50,"best-practices":92,"seo":80,"lcp":797,"cls":0,"tbt":0,"fcp":797,"si":797,"ttfb":617,"total":5897,"requests":3,"bytes":0,"mainThreadMs":0,"unusedJsBytes":0,"unusedCssBytes":0,"mainThreadTotal":88.5,"longTasks":0,"failingCount":3,"failingNodes":3,"axeViolations":4,"axePasses":2,"bench":3094.5,"runs":3,"reqRuns":3,"ms":33387,"spread":0}
+{"version":1,"url":"https://coda-dijon.github.io/html-b1-2026-g6","updated":"2026-11-23T16:22:57.665Z","points":[
+{"t":1795367317880,"performance":100,"accessibility":50,"best-practices":92,"seo":80,"lcp":797,"cls":0,"tbt":0,"fcp":797,"si":797,"ttfb":617,"total":5897,"requests":3,"bytes":0,"mainThreadMs":0,"unusedJsBytes":0,"unusedCssBytes":0,"mainThreadTotal":88.5,"longTasks":0,"failingCount":3,"failingNodes":3,"axeViolations":4,"axePasses":2,"bench":3094.5,"runs":3,"reqRuns":3,"ms":33387,"spread":0},
+{"t":1795450851569,"error":"NO_FCP: The page did not paint any content. Please ensure you keep the browser window in the foreground during the load and try again. (NO_FCP)","fails":1,"runs":0,"reqRuns":3,"ms":126093}
 ]}

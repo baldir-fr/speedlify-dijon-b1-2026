@@ -29,11 +29,11 @@ export default {
 
     // How long a measurement counts as current, and how long before a site is
     // reported as stale. Both are overridable per category and per site.
-    freshnessHours: 24,
-    staleAfterHours: 48,
+    freshnessHours: 1,
+    staleAfterHours: 2,
 
     // Sites per `npm run measure`. The stalest are chosen first.
-    batchSize: 20,
+    batchSize: 4,
 
     // Measurements kept per site before the oldest are pruned by `npm run clean`.
     historyLimit: 120,
@@ -55,6 +55,10 @@ export default {
             description: "Groupe 1 : Projet HTML CSS des B1 Coda Dijon 2026",
             sites: [
                 {url: "https://coda-dijon.github.io/html-b1-2026-g1/"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g1/cinema"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g1/cours"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g1/jeux"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g1/musique"},
             ],
         },
         "html-b1-2026-g2": {
