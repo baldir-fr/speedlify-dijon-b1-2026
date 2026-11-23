@@ -1,0 +1,3 @@
+{"version":1,"url":"https://coda-dijon.github.io/html-b1-2026-g1/cinema","updated":"2026-11-23T18:46:32.501Z","points":[
+{"t":1795459539420,"performance":97,"accessibility":92,"best-practices":96,"seo":91,"lcp":1067,"cls":0.114,"tbt":0,"fcp":779,"si":1901,"ttfb":617,"total":2150706,"requests":11,"bytes":0,"mainThreadMs":0,"unusedJsBytes":0,"unusedCssBytes":0,"mainThreadTotal":154.7,"longTasks":0,"elements":34,"failingCount":1,"failingNodes":6,"axeViolations":12,"axePasses":89,"bench":2456,"runs":3,"reqRuns":3,"ms":53000,"spread":4}
+]}
