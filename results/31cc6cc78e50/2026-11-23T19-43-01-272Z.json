@@ -1,0 +1,22 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g6/Contact",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g6",
+  "groupName": "html-b1-2026-g6",
+  "timestamp": 1795462981272,
+  "date": "2026-11-23T19:43:01.272Z",
+  "runId": "2026-11-23T19-42-55-692Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 0,
+  "durationMs": 128581,
+  "error": "NO_FCP: The page did not paint any content. Please ensure you keep the browser window in the foreground during the load and try again. (NO_FCP)",
+  "errors": [
+    "NO_FCP: The page did not paint any content. Please ensure you keep the browser window in the foreground during the load and try again. (NO_FCP)",
+    "NO_FCP: The page did not paint any content. Please ensure you keep the browser window in the foreground during the load and try again. (NO_FCP)",
+    "NO_FCP: The page did not paint any content. Please ensure you keep the browser window in the foreground during the load and try again. (NO_FCP)"
+  ],
+  "field": null,
+  "axe": null,
+  "consecutiveFailures": 1
+}
