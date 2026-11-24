@@ -1,0 +1,264 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g1/jeux",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g1",
+  "groupName": "html-b1-2026-g1",
+  "timestamp": 1795523413208,
+  "date": "2026-11-24T12:30:13.208Z",
+  "runId": "2026-11-24T12-29-28-272Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 40026,
+  "error": null,
+  "variance": {
+    "min": 99,
+    "max": 99,
+    "spread": 0,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g1/jeux",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g1/jeux",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 99,
+      "accessibility": 92,
+      "best-practices": 96,
+      "seo": 91,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 806,
+      "lcp": 2144,
+      "si": 834,
+      "tbt": 0,
+      "tti": 2144,
+      "cls": 0,
+      "ttfb": 644,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 144,
+      "networkRtt": 0,
+      "networkServerLatency": 44
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 145.3,
+      "resourceLoadDelay": 9.6,
+      "resourceLoadDuration": 426,
+      "elementRenderDelay": 19.7
+    },
+    "weight": {
+      "total": 522271,
+      "requests": 13,
+      "mainDocument": 975,
+      "byType": {
+        "total": {
+          "bytes": 516862,
+          "requests": 12
+        },
+        "image": {
+          "bytes": 514177,
+          "requests": 10
+        },
+        "stylesheet": {
+          "bytes": 1710,
+          "requests": 1
+        },
+        "document": {
+          "bytes": 975,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "font": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "other": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 516862,
+          "requests": 12
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 1,
+      "fonts": 0
+    },
+    "thirdParty": {
+      "count": 0,
+      "bytes": 0,
+      "mainThreadMs": 0,
+      "top": []
+    },
+    "mainThread": {
+      "total": 150.4,
+      "byGroup": {
+        "other": 114.3,
+        "styleLayout": 14.5,
+        "scriptEvaluation": 8.8,
+        "paintCompositeRender": 7.6,
+        "parseHTML": 4.8,
+        "scriptParseCompile": 0.4
+      },
+      "bootupMs": 4.2,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 45,
+      "depth": 7,
+      "maxChildren": 5
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 1,
+      "poorlyCachedBytes": 464299,
+      "poorlyCachedCount": 10
+    },
+    "accessibility": {
+      "failingCount": 1,
+      "applicableCount": 13,
+      "failingNodes": 9,
+      "failing": [
+        {
+          "id": "color-contrast",
+          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+          "weight": 7,
+          "nodes": 9
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 2
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 2,
+      "baselineLimitedFeatures": 3
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 2447,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-24T12:30:14.499Z",
+      "runtimeMs": 6528.3
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 607.4,
+    "resourceLoadDelay": 0,
+    "resourceLoadDuration": 1081,
+    "elementRenderDelay": 28.8
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "5df33e355c3865cac1c7cdbdf73ec9bc4f4ac54c",
+      "x-github-request-id": "1B72:31E702:AF513B:D68F1A:6B058354",
+      "x-served-by": "cache-iad-khef600054-IAD"
+    },
+    "violations": 9,
+    "passes": 116,
+    "incomplete": 0,
+    "violationRules": 1,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodes": 9,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": ".jeux > ul > li:nth-child(1) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Jeux/Elden_Ring.jpg\" alt=\"Jeu 1\">Elden Ring</a>"
+          },
+          {
+            "selector": ".jeux > ul > li:nth-child(2) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Jeux/Clair_Obscur.jpg\" alt=\"Jeu 2\">Clair Obscur Expedition 33</a>"
+          },
+          {
+            "selector": ".jeux > ul > li:nth-child(3) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Jeux/Helldivers.jpg\" alt=\"Jeu 3\">Helldivers II</a>"
+          },
+          {
+            "selector": ".ps5 > ul > li:nth-child(1) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Jeux/The_Last_of_Us.jpg\" alt=\"PS5 Jeu 1\">The Last Of Us Part II</a>"
+          },
+          {
+            "selector": ".ps5 > ul > li:nth-child(2) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Jeux/Star_Wars_Battlefront.jpg\" alt=\"PS5 Jeu 2\">Star Wars Battlefront II</a>"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}
