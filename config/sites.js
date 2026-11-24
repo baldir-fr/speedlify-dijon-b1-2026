@@ -33,7 +33,7 @@ export default {
     staleAfterHours: 2,
 
     // Sites per `npm run measure`. The stalest are chosen first.
-    batchSize: 4,
+    batchSize: 10,
 
     // Measurements kept per site before the oldest are pruned by `npm run clean`.
     historyLimit: 120,
