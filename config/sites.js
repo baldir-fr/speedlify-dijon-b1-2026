@@ -68,9 +68,9 @@ export default {
             description: "Groupe 2 : Projet HTML CSS des B1 Coda Dijon 2026",
             sites: [
                 {url: "https://coda-dijon.github.io/html-b1-2026-g2/"},
-                {url: "https://coda-dijon.github.io/html-b1-2026-g2/source/page_pull.html"},
-                {url: "https://coda-dijon.github.io/html-b1-2026-g2/source/page_legs.html"},
-                {url: "https://coda-dijon.github.io/html-b1-2026-g2/source/page_push.html"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g2/source/page_pull"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g2/source/page_legs"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g2/source/page_push"},
             ],
         },
         "html-b1-2026-g3": {

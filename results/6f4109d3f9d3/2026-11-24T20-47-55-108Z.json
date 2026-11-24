@@ -1,0 +1,262 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g1/jeux",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g1",
+  "groupName": "html-b1-2026-g1",
+  "timestamp": 1795553275108,
+  "date": "2026-11-24T20:47:55.108Z",
+  "runId": "2026-11-24T20-47-18-656Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 37164,
+  "error": null,
+  "variance": {
+    "min": 89,
+    "max": 99,
+    "spread": 10,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g1/jeux",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g1/jeux",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 99,
+      "accessibility": 92,
+      "best-practices": 92,
+      "seo": 91,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 793,
+      "lcp": 1967,
+      "si": 793,
+      "tbt": 0,
+      "tti": 1967,
+      "cls": 0,
+      "ttfb": 617,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 13,
+      "networkRtt": 0,
+      "networkServerLatency": 17.1
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 15.2,
+      "resourceLoadDelay": 5.3,
+      "resourceLoadDuration": 44.7,
+      "elementRenderDelay": 27.2
+    },
+    "weight": {
+      "total": 514629,
+      "requests": 13,
+      "mainDocument": 994,
+      "byType": {
+        "total": {
+          "bytes": 509185,
+          "requests": 12
+        },
+        "image": {
+          "bytes": 506245,
+          "requests": 10
+        },
+        "stylesheet": {
+          "bytes": 1946,
+          "requests": 1
+        },
+        "document": {
+          "bytes": 994,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "font": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "other": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 509185,
+          "requests": 12
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 1,
+      "fonts": 0
+    },
+    "thirdParty": {
+      "count": 0,
+      "bytes": 0,
+      "mainThreadMs": 0,
+      "top": []
+    },
+    "mainThread": {
+      "total": 121.1,
+      "byGroup": {
+        "other": 63,
+        "styleLayout": 25.6,
+        "scriptEvaluation": 18.8,
+        "parseHTML": 4.8,
+        "scriptParseCompile": 4.6,
+        "paintCompositeRender": 4.4
+      },
+      "bootupMs": 19.4,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 51,
+      "depth": 7,
+      "maxChildren": 5
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 1,
+      "poorlyCachedBytes": 465841.75,
+      "poorlyCachedCount": 11
+    },
+    "accessibility": {
+      "failingCount": 1,
+      "applicableCount": 14,
+      "failingNodes": 3,
+      "failing": [
+        {
+          "id": "color-contrast",
+          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+          "weight": 7,
+          "nodes": 3
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 2,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "image-aspect-ratio",
+          "title": "Displays images with incorrect aspect ratio",
+          "weight": 1,
+          "nodes": 1
+        },
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 1
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 1,
+      "baselineLimitedFeatures": 5
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 3051,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-24T20:48:07.799Z",
+      "runtimeMs": 5468.3
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 589.8,
+    "resourceLoadDelay": 0,
+    "resourceLoadDuration": 1082.6,
+    "elementRenderDelay": 5.6
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "c19d199af5c88c153b43f1ea2563809194e0ab47",
+      "x-github-request-id": "AAC0:B3426:175D5:178F9:6B05F3CB",
+      "x-served-by": "cache-par-lfpg1960043-PAR"
+    },
+    "violations": 3,
+    "passes": 126,
+    "incomplete": 0,
+    "violationRules": 1,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodes": 3,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "section:nth-child(2) > h2",
+            "snippet": "<h2 class=\"title_2\">Top PC</h2>"
+          },
+          {
+            "selector": "section:nth-child(3) > h2",
+            "snippet": "<h2 class=\"title_2\">Top Playstation</h2>"
+          },
+          {
+            "selector": "section:nth-child(4) > h2",
+            "snippet": "<h2 class=\"title_2\">Top XBOX</h2>"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}
