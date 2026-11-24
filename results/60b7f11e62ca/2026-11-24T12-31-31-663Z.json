@@ -1,0 +1,291 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g1",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g1",
+  "groupName": "html-b1-2026-g1",
+  "timestamp": 1795523491663,
+  "date": "2026-11-24T12:31:31.663Z",
+  "runId": "2026-11-24T12-29-24-761Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 41838,
+  "error": null,
+  "variance": {
+    "min": 79,
+    "max": 79,
+    "spread": 0,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g1",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g1/",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 79,
+      "accessibility": 92,
+      "best-practices": 92,
+      "seo": 91,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 774,
+      "lcp": 5710,
+      "si": 774,
+      "tbt": 0,
+      "tti": 5710,
+      "cls": 0.012,
+      "ttfb": 610,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 10,
+      "networkRtt": 0,
+      "networkServerLatency": 9.7
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 22.2,
+      "resourceLoadDelay": 20.7,
+      "resourceLoadDuration": 12.8,
+      "elementRenderDelay": 100.8
+    },
+    "weight": {
+      "total": 1091240,
+      "requests": 12,
+      "mainDocument": 951,
+      "byType": {
+        "total": {
+          "bytes": 1085943,
+          "requests": 11
+        },
+        "image": {
+          "bytes": 1083001,
+          "requests": 8
+        },
+        "stylesheet": {
+          "bytes": 1747,
+          "requests": 1
+        },
+        "document": {
+          "bytes": 951,
+          "requests": 1
+        },
+        "other": {
+          "bytes": 244,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "font": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 1085943,
+          "requests": 11
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 1,
+      "fonts": 0
+    },
+    "thirdParty": {
+      "count": 0,
+      "bytes": 0,
+      "mainThreadMs": 0,
+      "top": []
+    },
+    "mainThread": {
+      "total": 106.9,
+      "byGroup": {
+        "other": 72.2,
+        "styleLayout": 18.5,
+        "scriptEvaluation": 8.8,
+        "paintCompositeRender": 3.8,
+        "parseHTML": 2.9,
+        "scriptParseCompile": 0.7
+      },
+      "bootupMs": 4,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 33,
+      "depth": 7,
+      "maxChildren": 5
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 1,
+      "poorlyCachedBytes": 977157.5,
+      "poorlyCachedCount": 7
+    },
+    "accessibility": {
+      "failingCount": 1,
+      "applicableCount": 14,
+      "failingNodes": 4,
+      "failing": [
+        {
+          "id": "color-contrast",
+          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+          "weight": 7,
+          "nodes": 4
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 2,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "image-aspect-ratio",
+          "title": "Displays images with incorrect aspect ratio",
+          "weight": 1,
+          "nodes": 1
+        },
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 3
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 759.7,
+      "consoleErrors": 3,
+      "baselineLimitedFeatures": 3
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 3203,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-24T12:31:38.864Z",
+      "runtimeMs": 5578.9
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1695.4,
+    "resourceLoadDelay": 69.9,
+    "resourceLoadDuration": 5216.3,
+    "elementRenderDelay": 49.1
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "ffad03878b1c16a563b78b3e8b87a51acdb12473",
+      "x-github-request-id": "D836:227F7D:136E08E:155F8F9:6B0583A4",
+      "x-served-by": "cache-chi-kmdw8640054-CHI"
+    },
+    "violations": 8,
+    "passes": 79,
+    "incomplete": 1,
+    "violationRules": 2,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodes": 4,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "li:nth-child(1) > a[href$=\"jeux.html\"]",
+            "snippet": "<a href=\"jeux.html\"><img src=\"Ressources-index/Gta_portrait.jpg\" alt=\"Jeux\">Jeux</a>"
+          },
+          {
+            "selector": "li:nth-child(2) > a[href$=\"musique.html\"]",
+            "snippet": "<a href=\"musique.html\"><img src=\"Ressources-index/Billie-Eilish.jpg\" alt=\"Musiques\">Musiques</a>"
+          },
+          {
+            "selector": "li:nth-child(3) > a[href$=\"cinema.html\"]",
+            "snippet": "<a href=\"cinema.html\"><img src=\"Ressources-index/friends.jpg\" alt=\"Films &amp; Séries\"> Films &amp; Séries</a>"
+          },
+          {
+            "selector": "li:nth-child(4) > a[href$=\"cours.html\"]",
+            "snippet": "<a href=\"cours.html\"><img src=\"Ressources-index/coda.jpg\" alt=\"Cours\">Cours</a>"
+          }
+        ]
+      },
+      {
+        "id": "image-redundant-alt",
+        "impact": "minor",
+        "nodes": 4,
+        "help": "Alternative text of images should not be repeated as text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/image-redundant-alt?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "img[alt=\"Jeux\"]",
+            "snippet": "<img src=\"Ressources-index/Gta_portrait.jpg\" alt=\"Jeux\">"
+          },
+          {
+            "selector": "img[alt=\"Musiques\"]",
+            "snippet": "<img src=\"Ressources-index/Billie-Eilish.jpg\" alt=\"Musiques\">"
+          },
+          {
+            "selector": "img[src$=\"friends.jpg\"]",
+            "snippet": "<img src=\"Ressources-index/friends.jpg\" alt=\"Films &amp; Séries\">"
+          },
+          {
+            "selector": "img[src$=\"coda.jpg\"]",
+            "snippet": "<img src=\"Ressources-index/coda.jpg\" alt=\"Cours\">"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}

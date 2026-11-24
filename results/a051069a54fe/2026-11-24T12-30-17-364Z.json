@@ -1,0 +1,289 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g1/musique",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g1",
+  "groupName": "html-b1-2026-g1",
+  "timestamp": 1795523417364,
+  "date": "2026-11-24T12:30:17.364Z",
+  "runId": "2026-11-24T12-29-24-761Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 36199,
+  "error": null,
+  "variance": {
+    "min": 100,
+    "max": 100,
+    "spread": 0,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g1/musique",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g1/musique",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 100,
+      "accessibility": 92,
+      "best-practices": 96,
+      "seo": 91,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 773,
+      "lcp": 1059,
+      "si": 773,
+      "tbt": 0,
+      "tti": 1059,
+      "cls": 0,
+      "ttfb": 609,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 9,
+      "networkRtt": 0,
+      "networkServerLatency": 9.3
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 10.6,
+      "elementRenderDelay": 32.2
+    },
+    "weight": {
+      "total": 129869,
+      "requests": 16,
+      "mainDocument": 894,
+      "byType": {
+        "total": {
+          "bytes": 124499,
+          "requests": 15
+        },
+        "image": {
+          "bytes": 121927,
+          "requests": 13
+        },
+        "stylesheet": {
+          "bytes": 1678,
+          "requests": 1
+        },
+        "document": {
+          "bytes": 894,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "font": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "other": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 124499,
+          "requests": 15
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 1,
+      "fonts": 0
+    },
+    "thirdParty": {
+      "count": 0,
+      "bytes": 0,
+      "mainThreadMs": 0,
+      "top": []
+    },
+    "mainThread": {
+      "total": 119.4,
+      "byGroup": {
+        "other": 80.7,
+        "styleLayout": 20.3,
+        "scriptEvaluation": 9,
+        "paintCompositeRender": 5.2,
+        "parseHTML": 3.6,
+        "scriptParseCompile": 0.5
+      },
+      "bootupMs": 4,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 56,
+      "depth": 7,
+      "maxChildren": 5
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 1,
+      "poorlyCachedBytes": 1538.1666666666665,
+      "poorlyCachedCount": 1
+    },
+    "accessibility": {
+      "failingCount": 1,
+      "applicableCount": 14,
+      "failingNodes": 12,
+      "failing": [
+        {
+          "id": "color-contrast",
+          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+          "weight": 7,
+          "nodes": 12
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 14
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 14,
+      "baselineLimitedFeatures": 3
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 3188.5,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-24T12:30:30.132Z",
+      "runtimeMs": 5529.4
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1127.1,
+    "elementRenderDelay": 88.8
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "e1ab96c78bb55f3fbb9548e6d80a2852b6557ffc",
+      "x-github-request-id": "39EC:34C6A1:1440BDB:1631659:6B05835A",
+      "x-served-by": "cache-chi-kmdw8640054-CHI"
+    },
+    "violations": 24,
+    "passes": 131,
+    "incomplete": 0,
+    "violationRules": 2,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodes": 12,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": ".artiste > ul > li:nth-child(1) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Ressources-index/artist1.jpg\" alt=\"Billie Eilish\">Billie Eilish</a>"
+          },
+          {
+            "selector": ".artiste > ul > li:nth-child(2) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Ressources-index/artist2.jpg\" alt=\"Artiste 2\">Artiste 2</a>"
+          },
+          {
+            "selector": ".artiste > ul > li:nth-child(3) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Ressources-index/artist3.jpg\" alt=\"Artiste 3\">Artiste 3</a>"
+          },
+          {
+            "selector": ".albums > ul > li:nth-child(1) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Ressources-index/album1.jpg\" alt=\"Album 1\">Album 1</a>"
+          },
+          {
+            "selector": ".albums > ul > li:nth-child(2) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Ressources-index/album2.jpg\" alt=\"Album 2\">Album 2</a>"
+          }
+        ]
+      },
+      {
+        "id": "image-redundant-alt",
+        "impact": "minor",
+        "nodes": 12,
+        "help": "Alternative text of images should not be repeated as text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/image-redundant-alt?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "img[src$=\"artist1.jpg\"]",
+            "snippet": "<img src=\"Ressources-index/artist1.jpg\" alt=\"Billie Eilish\">"
+          },
+          {
+            "selector": "img[src$=\"artist2.jpg\"]",
+            "snippet": "<img src=\"Ressources-index/artist2.jpg\" alt=\"Artiste 2\">"
+          },
+          {
+            "selector": "img[src$=\"artist3.jpg\"]",
+            "snippet": "<img src=\"Ressources-index/artist3.jpg\" alt=\"Artiste 3\">"
+          },
+          {
+            "selector": "img[src$=\"album1.jpg\"]",
+            "snippet": "<img src=\"Ressources-index/album1.jpg\" alt=\"Album 1\">"
+          },
+          {
+            "selector": "img[src$=\"album2.jpg\"]",
+            "snippet": "<img src=\"Ressources-index/album2.jpg\" alt=\"Album 2\">"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}
