@@ -1,0 +1,248 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g2/source/page_push.html",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g2",
+  "groupName": "html-b1-2026-g2",
+  "timestamp": 1795547826916,
+  "date": "2026-11-24T19:17:06.916Z",
+  "runId": "2026-11-24T19-15-21-466Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 47710,
+  "error": null,
+  "variance": {
+    "min": 59,
+    "max": 76,
+    "spread": 17,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g2/source/page_push.html",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g2/source/page_push.html",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 75,
+      "accessibility": 96,
+      "best-practices": 96,
+      "seo": 91,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 777,
+      "lcp": 9160,
+      "si": 1400,
+      "tbt": 0,
+      "tti": 9160,
+      "cls": 0,
+      "ttfb": 610,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 10,
+      "networkRtt": 0,
+      "networkServerLatency": 10.5
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 11.5,
+      "resourceLoadDelay": 21.3,
+      "resourceLoadDuration": 15.9,
+      "elementRenderDelay": 33.5
+    },
+    "weight": {
+      "total": 1698159,
+      "requests": 10,
+      "mainDocument": 2168,
+      "byType": {
+        "total": {
+          "bytes": 1692748,
+          "requests": 9
+        },
+        "image": {
+          "bytes": 1688342,
+          "requests": 7
+        },
+        "stylesheet": {
+          "bytes": 2238,
+          "requests": 1
+        },
+        "document": {
+          "bytes": 2168,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "font": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "other": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 1692748,
+          "requests": 9
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 1,
+      "fonts": 0
+    },
+    "thirdParty": {
+      "count": 0,
+      "bytes": 0,
+      "mainThreadMs": 0,
+      "top": []
+    },
+    "mainThread": {
+      "total": 477.1,
+      "byGroup": {
+        "other": 256.1,
+        "paintCompositeRender": 128.5,
+        "styleLayout": 80,
+        "scriptEvaluation": 8.8,
+        "parseHTML": 3.2,
+        "scriptParseCompile": 0.6
+      },
+      "bootupMs": 7.4,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 56,
+      "depth": 6,
+      "maxChildren": 6
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 1,
+      "poorlyCachedBytes": 1549698.3333333333,
+      "poorlyCachedCount": 8
+    },
+    "accessibility": {
+      "failingCount": 1,
+      "applicableCount": 11,
+      "failingNodes": 1,
+      "failing": [
+        {
+          "id": "heading-order",
+          "title": "Heading elements are not in a sequentially-descending order",
+          "weight": 3,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 1
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 1,
+      "baselineLimitedFeatures": 5
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 4159,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-24T19:17:14.840Z",
+      "runtimeMs": 5767
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1127,
+    "resourceLoadDelay": 67.7,
+    "resourceLoadDuration": 8943,
+    "elementRenderDelay": 23.1
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "f17dc0bacb9dbeee1ba10472377ba75d1b4cda31",
+      "x-github-request-id": "E094:1590D7:16DC6:1A4B6:6B05E2B3",
+      "x-served-by": "cache-hhr-khhr2060021-HHR"
+    },
+    "violations": 1,
+    "passes": 99,
+    "incomplete": 32,
+    "violationRules": 1,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "heading-order",
+        "impact": "moderate",
+        "nodes": 1,
+        "help": "Heading levels should only increase by one",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/heading-order?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": ".footer_section:nth-child(1) > h3",
+            "snippet": "<h3>Navigation:</h3>"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}
