@@ -1,0 +1,291 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g6/produits",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g6",
+  "groupName": "html-b1-2026-g6",
+  "timestamp": 1795547796181,
+  "date": "2026-11-24T19:16:36.181Z",
+  "runId": "2026-11-24T19-15-33-669Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 35809,
+  "error": null,
+  "variance": {
+    "min": 89,
+    "max": 99,
+    "spread": 10,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g6/produits",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g6/produits",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 90,
+      "accessibility": 93,
+      "best-practices": 96,
+      "seo": 91,
+      "agentic-browsing": 82
+    },
+    "timings": {
+      "fcp": 781,
+      "lcp": 2111,
+      "si": 781,
+      "tbt": 0,
+      "tti": 2111,
+      "cls": 0.197,
+      "ttfb": 611,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 11,
+      "networkRtt": 0,
+      "networkServerLatency": 10.8
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 13,
+      "resourceLoadDelay": 6.3,
+      "resourceLoadDuration": 16.3,
+      "elementRenderDelay": 26.6
+    },
+    "weight": {
+      "total": 257681,
+      "requests": 6,
+      "mainDocument": 1398,
+      "byType": {
+        "total": {
+          "bytes": 252280,
+          "requests": 5
+        },
+        "image": {
+          "bytes": 250082,
+          "requests": 3
+        },
+        "document": {
+          "bytes": 1398,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 800,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "font": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "other": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 252280,
+          "requests": 5
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 1,
+      "fonts": 0
+    },
+    "thirdParty": {
+      "count": 0,
+      "bytes": 0,
+      "mainThreadMs": 0,
+      "top": []
+    },
+    "mainThread": {
+      "total": 100.2,
+      "byGroup": {
+        "other": 57.7,
+        "styleLayout": 25,
+        "scriptEvaluation": 7.2,
+        "paintCompositeRender": 6.7,
+        "parseHTML": 3.3,
+        "scriptParseCompile": 0.4
+      },
+      "bootupMs": 0,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 112,
+      "depth": 6,
+      "maxChildren": 17
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 1,
+      "poorlyCachedBytes": 229975.16666666666,
+      "poorlyCachedCount": 4
+    },
+    "accessibility": {
+      "failingCount": 1,
+      "applicableCount": 14,
+      "failingNodes": 1,
+      "failing": [
+        {
+          "id": "list",
+          "title": "Lists do not contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).",
+          "weight": 7,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 1
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 1,
+      "baselineLimitedFeatures": 3
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 3500.5,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-24T19:16:43.210Z",
+      "runtimeMs": 5401.2
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 588.6,
+    "resourceLoadDelay": 0,
+    "resourceLoadDuration": 1892.8,
+    "elementRenderDelay": 13.6
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "451fa94e30393c4ee27744931a08a87fe1e395d6",
+      "x-github-request-id": "9320:37D0DF:5F9B:8FC1:6B05E294",
+      "x-served-by": "cache-bfi-kbfi7400049-BFI"
+    },
+    "violations": 5,
+    "passes": 349,
+    "incomplete": 0,
+    "violationRules": 4,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "landmark-unique",
+        "impact": "moderate",
+        "nodes": 2,
+        "help": "Landmarks should have a unique role or role/label/title (i.e. accessible name) combination",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/landmark-unique?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": ".Barre-navigation",
+            "snippet": "<nav class=\"Barre-navigation\">"
+          },
+          {
+            "selector": ".Footer",
+            "snippet": "<footer class=\"Footer\"> <footer> <p>Street Style</p> <a href=\"https://github.com/ErwanC25\"><img src=\"image_global/OIP.webp\" alt=\"github\" height=\"50px\"></a> </footer> </footer>"
+          }
+        ]
+      },
+      {
+        "id": "landmark-contentinfo-is-top-level",
+        "impact": "moderate",
+        "nodes": 1,
+        "help": "Contentinfo landmark should not be contained in another landmark",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/landmark-contentinfo-is-top-level?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": ".Footer > footer",
+            "snippet": "<footer> <p>Street Style</p> <a href=\"https://github.com/ErwanC25\"><img src=\"image_global/OIP.webp\" alt=\"github\" height=\"50px\"></a> </footer>"
+          }
+        ]
+      },
+      {
+        "id": "landmark-no-duplicate-contentinfo",
+        "impact": "moderate",
+        "nodes": 1,
+        "help": "Document should not have more than one contentinfo landmark",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/landmark-no-duplicate-contentinfo?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": ".Footer",
+            "snippet": "<footer class=\"Footer\"> <footer> <p>Street Style</p> <a href=\"https://github.com/ErwanC25\"><img src=\"image_global/OIP.webp\" alt=\"github\" height=\"50px\"></a> </footer> </footer>"
+          }
+        ]
+      },
+      {
+        "id": "list",
+        "impact": "serious",
+        "nodes": 1,
+        "help": "<ul> and <ol> must only directly contain <li>, <script> or <template> elements",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/list?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "ul",
+            "snippet": "<ul class=\"side-bar-filtre\">"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}
