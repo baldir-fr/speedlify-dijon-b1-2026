@@ -59,6 +59,7 @@ export default {
                 {url: "https://coda-dijon.github.io/html-b1-2026-g1/musique"},
                 {url: "https://coda-dijon.github.io/html-b1-2026-g1/cinema"},
                 {url: "https://coda-dijon.github.io/html-b1-2026-g1/cours"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g1/Jeux/pages/GTA6"},
             ],
         },
         "html-b1-2026-g2": {
@@ -78,6 +79,7 @@ export default {
             description: "Groupe 3 : Projet HTML CSS des B1 Coda Dijon 2026",
             sites: [
                 {url: "https://coda-dijon.github.io/html-b1-2026-g3/"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g3/Nos-choix"},
             ],
         },
         "html-b1-2026-g4": {
@@ -86,6 +88,9 @@ export default {
             description: "Groupe 4 : Projet HTML CSS des B1 Coda Dijon 2026",
             sites: [
                 {url: "https://coda-dijon.github.io/html-b1-2026-g4/"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g4/html/futur"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g4/html/resto"},
+            {url: "https://coda-dijon.github.io/html-b1-2026-g4/html/plats/CAVALASAGNES"},
             ],
         },
         "html-b1-2026-g5": {
@@ -102,26 +107,12 @@ export default {
             description: "Groupe 6 : Projet HTML CSS des B1 Coda Dijon 2026",
             sites: [
                 {url: "https://coda-dijon.github.io/html-b1-2026-g6/"},
-                {url: "https://coda-dijon.github.io/html-b1-2026-g6/Contact"},
+                // TODO: remplacer accueil.html par index.html
+                {url: "https://coda-dijon.github.io/html-b1-2026-g6/accueil"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g6/contact"},
                 {url: "https://coda-dijon.github.io/html-b1-2026-g6/produits"},
             ],
-        },
-        "html-b1-2026-g7": {
-            name: "html-b1-2026-g7",
-            enabled: true,
-            description: "Groupe 7 : Projet HTML CSS des B1 Coda Dijon 2026",
-            sites: [
-                {url: "https://coda-dijon.github.io/html-b1-2026-g7/"},
-            ],
-        },
-        "autres-sites-coda-dijon": {
-            name: "autres-sites-coda-dijon",
-            enabled: true,
-            description: "Quelques autres sites de Coda Dijon analysés",
-            sites: [
-                {url: "https://coda-dijon.github.io/crack-me/"},
-            ],
-        },
+        }
 
     },
 };
