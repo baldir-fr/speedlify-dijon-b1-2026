@@ -1,0 +1,3 @@
+{"version":1,"url":"https://coda-dijon.github.io/html-b1-2026-g4/restaurant","updated":"2026-11-25T13:37:38.220Z","points":[
+{"t":1795613815160,"performance":99,"accessibility":100,"best-practices":96,"seo":100,"lcp":1964,"cls":0.004,"tbt":0,"fcp":780,"si":780,"ttfb":614,"total":1439392,"requests":17,"bytes":5576,"mainThreadMs":0,"unusedJsBytes":0,"unusedCssBytes":0,"mainThreadTotal":216.3,"longTasks":0,"elements":102,"failingCount":0,"failingNodes":0,"axeViolations":4,"axePasses":233,"bench":4175.5,"runs":3,"reqRuns":3,"ms":43013,"spread":3}
+]}

@@ -1,0 +1,3 @@
+{"version":1,"url":"https://coda-dijon.github.io/html-b1-2026-g5/shop","updated":"2026-11-25T13:38:47.686Z","points":[
+{"t":1795613892347,"performance":100,"accessibility":87,"best-practices":92,"seo":91,"lcp":813,"cls":0,"tbt":0,"fcp":813,"si":813,"ttfb":650,"total":19778,"requests":5,"bytes":0,"mainThreadMs":0,"unusedJsBytes":0,"unusedCssBytes":0,"mainThreadTotal":95,"longTasks":0,"elements":92,"failingCount":2,"failingNodes":4,"axeViolations":3,"axePasses":248,"bench":4194,"runs":3,"reqRuns":3,"ms":35284,"spread":0}
+]}
