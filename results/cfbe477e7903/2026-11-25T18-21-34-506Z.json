@@ -1,0 +1,254 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g4/mention_legal",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g4",
+  "groupName": "html-b1-2026-g4",
+  "timestamp": 1795630894506,
+  "date": "2026-11-25T18:21:34.506Z",
+  "runId": "2026-11-25T18-20-38-969Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 34748,
+  "error": null,
+  "variance": {
+    "min": 100,
+    "max": 100,
+    "spread": 0,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g4/mention_legal",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g4/mention_legal",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 100,
+      "accessibility": 96,
+      "best-practices": 96,
+      "seo": 91,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 769,
+      "lcp": 1059,
+      "si": 769,
+      "tbt": 0,
+      "tti": 1059,
+      "cls": 0.027,
+      "ttfb": 609,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 8,
+      "networkRtt": 0,
+      "networkServerLatency": 113
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 9.1,
+      "elementRenderDelay": 33.7
+    },
+    "weight": {
+      "total": 52762,
+      "requests": 6,
+      "mainDocument": 1209,
+      "byType": {
+        "total": {
+          "bytes": 47430,
+          "requests": 5
+        },
+        "image": {
+          "bytes": 35710,
+          "requests": 1
+        },
+        "other": {
+          "bytes": 5576,
+          "requests": 1
+        },
+        "script": {
+          "bytes": 4702,
+          "requests": 1
+        },
+        "document": {
+          "bytes": 1209,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 233,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "font": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 47430,
+          "requests": 5
+        }
+      },
+      "scripts": 1,
+      "stylesheets": 1,
+      "fonts": 0
+    },
+    "thirdParty": {
+      "count": 1,
+      "bytes": 5576,
+      "mainThreadMs": 0,
+      "top": [
+        {
+          "entity": "baldir.fr",
+          "bytes": 5576,
+          "mainThreadMs": 0,
+          "byType": {
+            "other": 5576
+          },
+          "typedBytes": 5576
+        }
+      ]
+    },
+    "mainThread": {
+      "total": 110.2,
+      "byGroup": {
+        "other": 67.2,
+        "scriptEvaluation": 17.5,
+        "styleLayout": 15.4,
+        "paintCompositeRender": 4.5,
+        "parseHTML": 3.8,
+        "scriptParseCompile": 1.8
+      },
+      "bootupMs": 4.3,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 67,
+      "depth": 9,
+      "maxChildren": 6
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 1,
+      "poorlyCachedBytes": 37044.33333333333,
+      "poorlyCachedCount": 2
+    },
+    "accessibility": {
+      "failingCount": 1,
+      "applicableCount": 23,
+      "failingNodes": 7,
+      "failing": [
+        {
+          "id": "target-size",
+          "title": "Touch targets do not have sufficient size or spacing.",
+          "weight": 7,
+          "nodes": 7
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 3
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 3,
+      "baselineLimitedFeatures": 9
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 3497,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-25T18:21:47.335Z",
+      "runtimeMs": 5464.6
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1126.6,
+    "elementRenderDelay": 52.5
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "c977eaae9b37029e539a2386e9171dc08be6f6e8",
+      "x-github-request-id": "0F44:3BDE22:3FFC8:67E1A:6B07272F",
+      "x-served-by": "cache-bfi-krnt7300084-BFI"
+    },
+    "violations": 1,
+    "passes": 143,
+    "incomplete": 0,
+    "violationRules": 1,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "page-has-heading-one",
+        "impact": "moderate",
+        "nodes": 1,
+        "help": "Page should contain a level-one heading",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/page-has-heading-one?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "html",
+            "snippet": "<html lang=\"fr\">"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}
