@@ -1,0 +1,291 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g1",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g1",
+  "groupName": "html-b1-2026-g1",
+  "timestamp": 1795613865053,
+  "date": "2026-11-25T13:37:45.053Z",
+  "runId": "2026-11-25T13-35-49-201Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 41082,
+  "error": null,
+  "variance": {
+    "min": 76,
+    "max": 79,
+    "spread": 3,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g1",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g1/",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 79,
+      "accessibility": 93,
+      "best-practices": 100,
+      "seo": 91,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 2431,
+      "lcp": 4808,
+      "si": 2431,
+      "tbt": 0,
+      "tti": 4808,
+      "cls": 0.011,
+      "ttfb": 608,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 7,
+      "networkRtt": 0,
+      "networkServerLatency": 15.8
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 18.3,
+      "resourceLoadDelay": 34.3,
+      "resourceLoadDuration": 10.1,
+      "elementRenderDelay": 107.8
+    },
+    "weight": {
+      "total": 659158,
+      "requests": 13,
+      "mainDocument": 1468,
+      "byType": {
+        "total": {
+          "bytes": 659158,
+          "requests": 13
+        },
+        "image": {
+          "bytes": 631432,
+          "requests": 7
+        },
+        "font": {
+          "bytes": 22349,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 3724,
+          "requests": 2
+        },
+        "document": {
+          "bytes": 1468,
+          "requests": 1
+        },
+        "other": {
+          "bytes": 185,
+          "requests": 2
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 659158,
+          "requests": 13
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 2,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 1,
+      "bytes": 22951,
+      "mainThreadMs": 0,
+      "top": [
+        {
+          "entity": "Google Fonts",
+          "bytes": 22951,
+          "mainThreadMs": 0,
+          "byType": {
+            "font": 22349,
+            "stylesheet": 602
+          },
+          "typedBytes": 22951
+        }
+      ]
+    },
+    "mainThread": {
+      "total": 134.5,
+      "byGroup": {
+        "other": 91.7,
+        "styleLayout": 22.7,
+        "scriptEvaluation": 8.8,
+        "paintCompositeRender": 6.3,
+        "parseHTML": 4.6,
+        "scriptParseCompile": 0.5
+      },
+      "bootupMs": 4.3,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 68,
+      "depth": 7,
+      "maxChildren": 4
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 766,
+      "renderBlockingCount": 2,
+      "poorlyCachedBytes": 581674.5,
+      "poorlyCachedCount": 8
+    },
+    "accessibility": {
+      "failingCount": 2,
+      "applicableCount": 22,
+      "failingNodes": 3,
+      "failing": [
+        {
+          "id": "image-alt",
+          "title": "Image elements do not have `[alt]` attributes",
+          "weight": 10,
+          "nodes": 2
+        },
+        {
+          "id": "td-has-header",
+          "title": "`<td>` elements in a large `<table>` do not have table headers.",
+          "weight": 0,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 0,
+      "applicableCount": 19,
+      "failing": []
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "image-alt",
+          "title": "Image elements do not have `[alt]` attributes",
+          "weight": 1,
+          "nodes": 2
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 757.7,
+      "consoleErrors": 0,
+      "baselineLimitedFeatures": 7
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 3436.5,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-25T13:37:54.291Z",
+      "runtimeMs": 5672.2
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1694,
+    "resourceLoadDelay": 707.1,
+    "resourceLoadDuration": 1146.5,
+    "elementRenderDelay": 11.5
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "73246244c42a1c5c75dc7b34c5c91836eca463d0",
+      "x-github-request-id": "C036:312D9D:375C6:55EA1:6B06E4AA",
+      "x-served-by": "cache-bfi-krnt7300056-BFI"
+    },
+    "violations": 10,
+    "passes": 170,
+    "incomplete": 6,
+    "violationRules": 2,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "empty-table-header",
+        "impact": "minor",
+        "nodes": 8,
+        "help": "Table header text should not be empty",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/empty-table-header?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "tr:nth-child(1) > th:nth-child(1)",
+            "snippet": "<th><img src=\"Ressources-index/GitHub.svg\"></th>"
+          },
+          {
+            "selector": "tr:nth-child(1) > th:nth-child(3)",
+            "snippet": "<th><img src=\"Ressources-index/LinkedIn_logo_initials.png\"></th>"
+          },
+          {
+            "selector": "tr:nth-child(2) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(2) > th:nth-child(3)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(3) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          }
+        ]
+      },
+      {
+        "id": "image-alt",
+        "impact": "critical",
+        "nodes": 2,
+        "help": "Images must have alternative text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/image-alt?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "img[src$=\"GitHub.svg\"]",
+            "snippet": "<img src=\"Ressources-index/GitHub.svg\">"
+          },
+          {
+            "selector": "th:nth-child(3) > img",
+            "snippet": "<img src=\"Ressources-index/LinkedIn_logo_initials.png\">"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}
