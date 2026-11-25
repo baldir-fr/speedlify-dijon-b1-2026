@@ -1,0 +1,304 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g1/cinema",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g1",
+  "groupName": "html-b1-2026-g1",
+  "timestamp": 1795630827885,
+  "date": "2026-11-25T18:20:27.885Z",
+  "runId": "2026-11-25T18-20-26-839Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 41506,
+  "error": null,
+  "variance": {
+    "min": 94,
+    "max": 95,
+    "spread": 1,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g1/cinema",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g1/cinema",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 95,
+      "accessibility": 93,
+      "best-practices": 96,
+      "seo": 82,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 2410,
+      "lcp": 2410,
+      "si": 2410,
+      "tbt": 0,
+      "tti": 2410,
+      "cls": 0.002,
+      "ttfb": 603,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 3,
+      "networkRtt": 0.1,
+      "networkServerLatency": 3.7
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 4.7,
+      "resourceLoadDelay": 9.1,
+      "resourceLoadDuration": 5.3,
+      "elementRenderDelay": 39.6
+    },
+    "weight": {
+      "total": 552190,
+      "requests": 17,
+      "mainDocument": 1301,
+      "byType": {
+        "total": {
+          "bytes": 546724,
+          "requests": 16
+        },
+        "image": {
+          "bytes": 519378,
+          "requests": 12
+        },
+        "font": {
+          "bytes": 22349,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 3696,
+          "requests": 2
+        },
+        "document": {
+          "bytes": 1301,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "other": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 546724,
+          "requests": 16
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 2,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 1,
+      "bytes": 22949,
+      "mainThreadMs": 0,
+      "top": [
+        {
+          "entity": "Google Fonts",
+          "bytes": 22949,
+          "mainThreadMs": 0,
+          "byType": {
+            "font": 22349,
+            "stylesheet": 600
+          },
+          "typedBytes": 22949
+        }
+      ]
+    },
+    "mainThread": {
+      "total": 162.3,
+      "byGroup": {
+        "other": 102.6,
+        "styleLayout": 34.6,
+        "scriptEvaluation": 9.8,
+        "paintCompositeRender": 8.4,
+        "parseHTML": 6.4,
+        "scriptParseCompile": 0.5
+      },
+      "bootupMs": 8.5,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 86,
+      "depth": 7,
+      "maxChildren": 5
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 754,
+      "renderBlockingCount": 2,
+      "poorlyCachedBytes": 478934.5,
+      "poorlyCachedCount": 13
+    },
+    "accessibility": {
+      "failingCount": 2,
+      "applicableCount": 22,
+      "failingNodes": 3,
+      "failing": [
+        {
+          "id": "image-alt",
+          "title": "Image elements do not have `[alt]` attributes",
+          "weight": 10,
+          "nodes": 2
+        },
+        {
+          "id": "td-has-header",
+          "title": "`<td>` elements in a large `<table>` do not have table headers.",
+          "weight": 0,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 1
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 2,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        },
+        {
+          "id": "image-alt",
+          "title": "Image elements do not have `[alt]` attributes",
+          "weight": 1,
+          "nodes": 2
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 1,
+      "baselineLimitedFeatures": 6
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 2731.5,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-25T18:20:42.638Z",
+      "runtimeMs": 5869.2
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 598.8,
+    "resourceLoadDelay": 0,
+    "resourceLoadDuration": 1076.2,
+    "elementRenderDelay": 250.8
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "414168d6932ea455e05da4113b58841eb410aa5b",
+      "x-github-request-id": "32B4:A8A33:16979F6:18BDBE4:6B0726ED",
+      "x-served-by": "cache-pdk-kpdk2140076-PDK"
+    },
+    "violations": 10,
+    "passes": 232,
+    "incomplete": 0,
+    "violationRules": 2,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "empty-table-header",
+        "impact": "minor",
+        "nodes": 8,
+        "help": "Table header text should not be empty",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/empty-table-header?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "tr:nth-child(1) > th:nth-child(1)",
+            "snippet": "<th><img src=\"Ressources-index/GitHub.svg\"></th>"
+          },
+          {
+            "selector": "tr:nth-child(1) > th:nth-child(3)",
+            "snippet": "<th><img src=\"Ressources-index/LinkedIn_logo_initials.png\"></th>"
+          },
+          {
+            "selector": "tr:nth-child(2) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(2) > th:nth-child(3)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(3) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          }
+        ]
+      },
+      {
+        "id": "image-alt",
+        "impact": "critical",
+        "nodes": 2,
+        "help": "Images must have alternative text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/image-alt?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "img[src$=\"GitHub.svg\"]",
+            "snippet": "<img src=\"Ressources-index/GitHub.svg\">"
+          },
+          {
+            "selector": "th:nth-child(3) > img",
+            "snippet": "<img src=\"Ressources-index/LinkedIn_logo_initials.png\">"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}

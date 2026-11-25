@@ -1,0 +1,345 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g1/jeux",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g1",
+  "groupName": "html-b1-2026-g1",
+  "timestamp": 1795630869468,
+  "date": "2026-11-25T18:21:09.468Z",
+  "runId": "2026-11-25T18-20-26-839Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 38868,
+  "error": null,
+  "variance": {
+    "min": 93,
+    "max": 94,
+    "spread": 1,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g1/jeux",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g1/jeux",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 94,
+      "accessibility": 88,
+      "best-practices": 92,
+      "seo": 82,
+      "agentic-browsing": 50
+    },
+    "timings": {
+      "fcp": 2411,
+      "lcp": 2553,
+      "si": 2411,
+      "tbt": 0,
+      "tti": 2553,
+      "cls": 0.001,
+      "ttfb": 603,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 2,
+      "networkRtt": 0.1,
+      "networkServerLatency": 5.2
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 4,
+      "resourceLoadDelay": 8.9,
+      "resourceLoadDuration": 7.8,
+      "elementRenderDelay": 52.1
+    },
+    "weight": {
+      "total": 359794,
+      "requests": 24,
+      "mainDocument": 1455,
+      "byType": {
+        "total": {
+          "bytes": 354496,
+          "requests": 23
+        },
+        "image": {
+          "bytes": 325160,
+          "requests": 16
+        },
+        "font": {
+          "bytes": 22349,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 3722,
+          "requests": 4
+        },
+        "document": {
+          "bytes": 3265,
+          "requests": 2
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "other": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 354496,
+          "requests": 23
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 4,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 1,
+      "bytes": 24866,
+      "mainThreadMs": 0,
+      "top": [
+        {
+          "entity": "Google Fonts",
+          "bytes": 24866,
+          "mainThreadMs": 0,
+          "byType": {
+            "font": 22349,
+            "stylesheet": 2517
+          },
+          "typedBytes": 24866
+        }
+      ]
+    },
+    "mainThread": {
+      "total": 215.7,
+      "byGroup": {
+        "other": 141.1,
+        "styleLayout": 39.6,
+        "parseHTML": 16.3,
+        "scriptEvaluation": 9.9,
+        "paintCompositeRender": 8.3,
+        "scriptParseCompile": 0.5
+      },
+      "bootupMs": 8.5,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 88,
+      "depth": 7,
+      "maxChildren": 5
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 755,
+      "renderBlockingCount": 2,
+      "poorlyCachedBytes": 292327.74999999994,
+      "poorlyCachedCount": 17
+    },
+    "accessibility": {
+      "failingCount": 3,
+      "applicableCount": 23,
+      "failingNodes": 11,
+      "failing": [
+        {
+          "id": "link-name",
+          "title": "Links do not have a discernible name",
+          "weight": 7,
+          "nodes": 8
+        },
+        {
+          "id": "image-alt",
+          "title": "Image elements do not have `[alt]` attributes",
+          "weight": 10,
+          "nodes": 2
+        },
+        {
+          "id": "td-has-header",
+          "title": "`<td>` elements in a large `<table>` do not have table headers.",
+          "weight": 0,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 2,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "image-aspect-ratio",
+          "title": "Displays images with incorrect aspect ratio",
+          "weight": 1,
+          "nodes": 1
+        },
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 2
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 2,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        },
+        {
+          "id": "image-alt",
+          "title": "Image elements do not have `[alt]` attributes",
+          "weight": 1,
+          "nodes": 2
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 2,
+      "baselineLimitedFeatures": 6
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 2640,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-25T18:21:23.216Z",
+      "runtimeMs": 5892.9
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 596.7,
+    "resourceLoadDelay": 0,
+    "resourceLoadDuration": 932.9,
+    "elementRenderDelay": 365
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "be123840a9d216440d0a6f2b3003eef0fecc4560",
+      "x-github-request-id": "F820:174B24:1CEF06E:1F3903B:6B072716",
+      "x-served-by": "cache-pdk-kpdk2140076-PDK"
+    },
+    "violations": 18,
+    "passes": 224,
+    "incomplete": 0,
+    "violationRules": 3,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "empty-table-header",
+        "impact": "minor",
+        "nodes": 8,
+        "help": "Table header text should not be empty",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/empty-table-header?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "tr:nth-child(1) > th:nth-child(1)",
+            "snippet": "<th><img src=\"Ressources-index/GitHub.svg\"></th>"
+          },
+          {
+            "selector": "tr:nth-child(1) > th:nth-child(3)",
+            "snippet": "<th><img src=\"Ressources-index/LinkedIn_logo_initials.png\"></th>"
+          },
+          {
+            "selector": "tr:nth-child(2) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(2) > th:nth-child(3)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(3) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          }
+        ]
+      },
+      {
+        "id": "link-name",
+        "impact": "serious",
+        "nodes": 8,
+        "help": "Links must have discernible text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "section:nth-child(2) > ul > li:nth-child(1) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Jeux/images/Elden_Ring.webp\" alt=\"\"></a>"
+          },
+          {
+            "selector": "section:nth-child(2) > ul > li:nth-child(2) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Jeux/images/Clair_Obscur.webp\" alt=\"\"></a>"
+          },
+          {
+            "selector": "section:nth-child(2) > ul > li:nth-child(3) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Jeux/images/Helldivers.webp\" alt=\"\"></a>"
+          },
+          {
+            "selector": "section:nth-child(3) > ul > li:nth-child(1) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Jeux/images/The_Last_of_Us.webp\" alt=\"\"></a>"
+          },
+          {
+            "selector": "section:nth-child(3) > ul > li:nth-child(2) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Jeux/images/Star_Wars_Battlefront.webp\" alt=\"\"></a>"
+          }
+        ]
+      },
+      {
+        "id": "image-alt",
+        "impact": "critical",
+        "nodes": 2,
+        "help": "Images must have alternative text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/image-alt?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "img[src$=\"GitHub.svg\"]",
+            "snippet": "<img src=\"Ressources-index/GitHub.svg\">"
+          },
+          {
+            "selector": "th:nth-child(3) > img",
+            "snippet": "<img src=\"Ressources-index/LinkedIn_logo_initials.png\">"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}

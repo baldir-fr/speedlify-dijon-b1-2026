@@ -1,0 +1,306 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g1/Jeux/pages/GTA6",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g1",
+  "groupName": "html-b1-2026-g1",
+  "timestamp": 1795631137496,
+  "date": "2026-11-25T18:25:37.496Z",
+  "runId": "2026-11-25T18-20-26-839Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 36990,
+  "error": null,
+  "variance": {
+    "min": 95,
+    "max": 100,
+    "spread": 5,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g1/Jeux/pages/GTA6",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g1/Jeux/pages/GTA6",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 95,
+      "accessibility": 93,
+      "best-practices": 92,
+      "seo": 82,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 2419,
+      "lcp": 2419,
+      "si": 2419,
+      "tbt": 0,
+      "tti": 2419,
+      "cls": 0.001,
+      "ttfb": 611,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 2,
+      "networkRtt": 0,
+      "networkServerLatency": 11.2
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 4.4,
+      "elementRenderDelay": 51.6
+    },
+    "weight": {
+      "total": 66367,
+      "requests": 9,
+      "mainDocument": 1853,
+      "byType": {
+        "total": {
+          "bytes": 61077,
+          "requests": 8
+        },
+        "image": {
+          "bytes": 33183,
+          "requests": 4
+        },
+        "font": {
+          "bytes": 22349,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 3692,
+          "requests": 2
+        },
+        "document": {
+          "bytes": 1853,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "other": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 61077,
+          "requests": 8
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 2,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 1,
+      "bytes": 22949,
+      "mainThreadMs": 0,
+      "top": [
+        {
+          "entity": "Google Fonts",
+          "bytes": 22949,
+          "mainThreadMs": 0,
+          "byType": {
+            "font": 22349,
+            "stylesheet": 600
+          },
+          "typedBytes": 22949
+        }
+      ]
+    },
+    "mainThread": {
+      "total": 144.5,
+      "byGroup": {
+        "other": 82.2,
+        "styleLayout": 37.5,
+        "scriptEvaluation": 10.7,
+        "paintCompositeRender": 8.2,
+        "parseHTML": 5.4,
+        "scriptParseCompile": 0.5
+      },
+      "bootupMs": 9.3,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 91,
+      "depth": 7,
+      "maxChildren": 6
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 754,
+      "renderBlockingCount": 2,
+      "poorlyCachedBytes": 24654.666666666664,
+      "poorlyCachedCount": 4
+    },
+    "accessibility": {
+      "failingCount": 2,
+      "applicableCount": 22,
+      "failingNodes": 3,
+      "failing": [
+        {
+          "id": "image-alt",
+          "title": "Image elements do not have `[alt]` attributes",
+          "weight": 10,
+          "nodes": 2
+        },
+        {
+          "id": "td-has-header",
+          "title": "`<td>` elements in a large `<table>` do not have table headers.",
+          "weight": 0,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 2,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "image-aspect-ratio",
+          "title": "Displays images with incorrect aspect ratio",
+          "weight": 1,
+          "nodes": 1
+        },
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 2
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 2,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        },
+        {
+          "id": "image-alt",
+          "title": "Image elements do not have `[alt]` attributes",
+          "weight": 1,
+          "nodes": 2
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 2,
+      "baselineLimitedFeatures": 5
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 2654,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-25T18:25:50.486Z",
+      "runtimeMs": 5617.4
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1127.1,
+    "elementRenderDelay": 730.3
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "723919e7de70c26032f2bc7769b03537c1d1b155",
+      "x-github-request-id": "269E:3A6B15:1D4C351:1F986EE:6B072821",
+      "x-served-by": "cache-pdk-kpdk2140076-PDK"
+    },
+    "violations": 10,
+    "passes": 218,
+    "incomplete": 2,
+    "violationRules": 2,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "empty-table-header",
+        "impact": "minor",
+        "nodes": 8,
+        "help": "Table header text should not be empty",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/empty-table-header?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "footer > table > tbody > tr:nth-child(1) > th:nth-child(1)",
+            "snippet": "<th><img src=\"../../Ressources-index/GitHub.svg\"></th>"
+          },
+          {
+            "selector": "tr:nth-child(1) > th:nth-child(3)",
+            "snippet": "<th><img src=\"../../Ressources-index/LinkedIn_logo_initials.png\"></th>"
+          },
+          {
+            "selector": "footer > table > tbody > tr:nth-child(2) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(2) > th:nth-child(3)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "footer > table > tbody > tr:nth-child(3) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          }
+        ]
+      },
+      {
+        "id": "image-alt",
+        "impact": "critical",
+        "nodes": 2,
+        "help": "Images must have alternative text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/image-alt?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "th:nth-child(1) > img",
+            "snippet": "<img src=\"../../Ressources-index/GitHub.svg\">"
+          },
+          {
+            "selector": "th:nth-child(3) > img",
+            "snippet": "<img src=\"../../Ressources-index/LinkedIn_logo_initials.png\">"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}

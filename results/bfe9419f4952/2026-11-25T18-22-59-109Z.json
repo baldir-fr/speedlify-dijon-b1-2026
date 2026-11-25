@@ -1,0 +1,258 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g4/restaurant",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g4",
+  "groupName": "html-b1-2026-g4",
+  "timestamp": 1795630979109,
+  "date": "2026-11-25T18:22:59.109Z",
+  "runId": "2026-11-25T18-20-26-839Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 44290,
+  "error": null,
+  "variance": {
+    "min": 76,
+    "max": 99,
+    "spread": 23,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g4/restaurant",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g4/restaurant",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 77,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 3154,
+      "lcp": 4654,
+      "si": 3154,
+      "tbt": 0,
+      "tti": 4654,
+      "cls": 0,
+      "ttfb": 604,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 3,
+      "networkRtt": 0,
+      "networkServerLatency": 3.8
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 5,
+      "resourceLoadDelay": 9.5,
+      "resourceLoadDuration": 7,
+      "elementRenderDelay": 46.4
+    },
+    "weight": {
+      "total": 1435227,
+      "requests": 17,
+      "mainDocument": 1620,
+      "byType": {
+        "total": {
+          "bytes": 1435227,
+          "requests": 17
+        },
+        "image": {
+          "bytes": 971196,
+          "requests": 11
+        },
+        "font": {
+          "bytes": 453911,
+          "requests": 1
+        },
+        "script": {
+          "bytes": 4712,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 3302,
+          "requests": 1
+        },
+        "document": {
+          "bytes": 1620,
+          "requests": 1
+        },
+        "other": {
+          "bytes": 486,
+          "requests": 2
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 1435227,
+          "requests": 17
+        }
+      },
+      "scripts": 1,
+      "stylesheets": 1,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 1,
+      "bytes": 486,
+      "mainThreadMs": 0,
+      "top": [
+        {
+          "entity": "baldir.fr",
+          "bytes": 486,
+          "mainThreadMs": 0,
+          "byType": {
+            "other": 486
+          },
+          "typedBytes": 486
+        }
+      ]
+    },
+    "mainThread": {
+      "total": 328.6,
+      "byGroup": {
+        "other": 198.5,
+        "styleLayout": 81.7,
+        "scriptEvaluation": 24.7,
+        "paintCompositeRender": 14.4,
+        "parseHTML": 8.5,
+        "scriptParseCompile": 0.9
+      },
+      "bootupMs": 12.2,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 113,
+      "depth": 9,
+      "maxChildren": 10
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 1,
+      "poorlyCachedBytes": 1313694.2499999998,
+      "poorlyCachedCount": 14
+    },
+    "accessibility": {
+      "failingCount": 0,
+      "applicableCount": 24,
+      "failingNodes": 0,
+      "failing": []
+    },
+    "bestPractices": {
+      "failingCount": 0,
+      "applicableCount": 19,
+      "failing": []
+    },
+    "seo": {
+      "failingCount": 0,
+      "applicableCount": 8,
+      "failing": []
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 0,
+      "baselineLimitedFeatures": 11
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 2726.5,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-25T18:23:06.593Z",
+      "runtimeMs": 5851.1
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 600.8,
+    "resourceLoadDelay": 0,
+    "resourceLoadDuration": 2657.7,
+    "elementRenderDelay": 11.6
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "dddefb898d85b0635a3912f158d32f569a414d21",
+      "x-github-request-id": "59A4:3FD4D1:1BDC0DA:1E27CF9:6B072784",
+      "x-served-by": "cache-pdk-kpdk2140076-PDK"
+    },
+    "violations": 4,
+    "passes": 318,
+    "incomplete": 18,
+    "violationRules": 2,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "image-redundant-alt",
+        "impact": "minor",
+        "nodes": 3,
+        "help": "Alternative text of images should not be repeated as text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/image-redundant-alt?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "img[src$=\"cavalasagnes.jpeg\"]",
+            "snippet": "<img class=\"carte_image\" src=\"image/cavalasagnes.jpeg\" alt=\"Cavalasagnes\">"
+          },
+          {
+            "selector": "img[src$=\"hippoburger.jpeg\"]",
+            "snippet": "<img class=\"carte_image\" src=\"image/hippoburger.jpeg\" alt=\"HIPPOBURGER\" loading=\"lazy\">"
+          },
+          {
+            "selector": "img[src$=\"pur-sanguignon.jpeg\"]",
+            "snippet": "<img class=\"carte_image\" src=\"image/pur-sanguignon.jpeg\" alt=\"PUR-SANGUIGNON\" loading=\"lazy\">"
+          }
+        ]
+      },
+      {
+        "id": "page-has-heading-one",
+        "impact": "moderate",
+        "nodes": 1,
+        "help": "Page should contain a level-one heading",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/page-has-heading-one?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "html",
+            "snippet": "<html lang=\"fr\">"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}
