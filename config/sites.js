@@ -78,11 +78,11 @@ export default {
             enabled: true,
             description: "Groupe 3 : Projet HTML CSS des B1 Coda Dijon 2026",
             sites: [
-                {url: "https://coda-dijon.github.io/html-b1-2026-g3/"},
-                {url: "https://coda-dijon.github.io/html-b1-2026-g3/Nos-choix"},
                 {url: "https://coda-dijon.github.io/html-b1-2026-g3/a_propos"},
                 {url: "https://coda-dijon.github.io/html-b1-2026-g3/actualite"},
                 {url: "https://coda-dijon.github.io/html-b1-2026-g3/adopter"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g3/"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g3/Nos-choix"},
                 {url: "https://coda-dijon.github.io/html-b1-2026-g3/page-descriptive-chevaux-html/Boulonnais"},
             ],
         },
