@@ -58,7 +58,7 @@ export default {
                 {url: "https://coda-dijon.github.io/html-b1-2026-g1/jeux"},
                 {url: "https://coda-dijon.github.io/html-b1-2026-g1/musique"},
                 {url: "https://coda-dijon.github.io/html-b1-2026-g1/cinema"},
-                {url: "https://coda-dijon.github.io/html-b1-2026-g1/cours"},
+                // {url: "https://coda-dijon.github.io/html-b1-2026-g1/cours"},
                 {url: "https://coda-dijon.github.io/html-b1-2026-g1/Jeux/pages/GTA6"},
             ],
         },
@@ -80,6 +80,10 @@ export default {
             sites: [
                 {url: "https://coda-dijon.github.io/html-b1-2026-g3/"},
                 {url: "https://coda-dijon.github.io/html-b1-2026-g3/Nos-choix"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g3/a_propos"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g3/actualite"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g3/adopter"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g3/page-descriptive-chevaux-html/Boulonnais"},
             ],
         },
         "html-b1-2026-g4": {
@@ -88,9 +92,10 @@ export default {
             description: "Groupe 4 : Projet HTML CSS des B1 Coda Dijon 2026",
             sites: [
                 {url: "https://coda-dijon.github.io/html-b1-2026-g4/"},
-                {url: "https://coda-dijon.github.io/html-b1-2026-g4/html/futur"},
-                {url: "https://coda-dijon.github.io/html-b1-2026-g4/html/resto"},
-            {url: "https://coda-dijon.github.io/html-b1-2026-g4/html/plats/CAVALASAGNES"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g4/futur"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g4/restaurant"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g4/mention_legal"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g4/plats/cavalasagnes"},
             ],
         },
         "html-b1-2026-g5": {
@@ -99,6 +104,8 @@ export default {
             description: "Groupe 5 : Projet HTML CSS des B1 Coda Dijon 2026",
             sites: [
                 {url: "https://coda-dijon.github.io/html-b1-2026-g5/"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g5/about"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g5/shop"},
             ],
         },
         "html-b1-2026-g6": {
