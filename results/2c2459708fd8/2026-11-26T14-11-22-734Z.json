@@ -1,0 +1,237 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g4/plats/cavalasagnes",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g4",
+  "groupName": "html-b1-2026-g4",
+  "timestamp": 1795702282734,
+  "date": "2026-11-26T14:11:22.734Z",
+  "runId": "2026-11-26T14-10-37-729Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 37070,
+  "error": null,
+  "variance": {
+    "min": 99,
+    "max": 100,
+    "spread": 1,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g4/plats/cavalasagnes",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g4/plats/cavalasagnes",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 96,
+      "seo": 91,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 1353,
+      "lcp": 2105,
+      "si": 1353,
+      "tbt": 0,
+      "tti": 2105,
+      "cls": 0.012,
+      "ttfb": 603,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 2,
+      "networkRtt": 0,
+      "networkServerLatency": 2.5
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 4.2,
+      "resourceLoadDelay": 8.1,
+      "resourceLoadDuration": 6,
+      "elementRenderDelay": 39.7
+    },
+    "weight": {
+      "total": 148080,
+      "requests": 8,
+      "mainDocument": 1197,
+      "byType": {
+        "total": {
+          "bytes": 142667,
+          "requests": 7
+        },
+        "font": {
+          "bytes": 91397,
+          "requests": 1
+        },
+        "image": {
+          "bytes": 41296,
+          "requests": 2
+        },
+        "script": {
+          "bytes": 4542,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 3744,
+          "requests": 1
+        },
+        "document": {
+          "bytes": 1197,
+          "requests": 1
+        },
+        "other": {
+          "bytes": 491,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 142667,
+          "requests": 7
+        }
+      },
+      "scripts": 1,
+      "stylesheets": 1,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 1,
+      "bytes": 491,
+      "mainThreadMs": 0,
+      "top": [
+        {
+          "entity": "baldir.fr",
+          "bytes": 491,
+          "mainThreadMs": 0,
+          "byType": {
+            "other": 491
+          },
+          "typedBytes": 491
+        }
+      ]
+    },
+    "mainThread": {
+      "total": 191.1,
+      "byGroup": {
+        "other": 81.2,
+        "styleLayout": 75,
+        "scriptEvaluation": 18.6,
+        "paintCompositeRender": 9.6,
+        "parseHTML": 5.6,
+        "scriptParseCompile": 1
+      },
+      "bootupMs": 8.7,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 73,
+      "depth": 9,
+      "maxChildren": 6
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 1,
+      "poorlyCachedBytes": 129230.75,
+      "poorlyCachedCount": 5
+    },
+    "accessibility": {
+      "failingCount": 0,
+      "applicableCount": 25,
+      "failingNodes": 0,
+      "failing": []
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 1
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 1,
+      "baselineLimitedFeatures": 10
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 2753.5,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-26T14:11:30.333Z",
+      "runtimeMs": 5573
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 596.4,
+    "resourceLoadDelay": 0,
+    "resourceLoadDuration": 822.5,
+    "elementRenderDelay": 33.1
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "b6d07f2007d3466307f40bf9f9f557d9de18ef9e",
+      "x-github-request-id": "8528:3F6923:371C81:3ADFCA:6B083E0B",
+      "x-served-by": "cache-pdk-kpdk2140023-PDK"
+    },
+    "violations": 0,
+    "passes": 212,
+    "incomplete": 19,
+    "violationRules": 0,
+    "version": "4.13.0",
+    "top": [],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}

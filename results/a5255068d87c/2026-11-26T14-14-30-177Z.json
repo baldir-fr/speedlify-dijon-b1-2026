@@ -1,0 +1,314 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g6/contact",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g6",
+  "groupName": "html-b1-2026-g6",
+  "timestamp": 1795702470177,
+  "date": "2026-11-26T14:14:30.177Z",
+  "runId": "2026-11-26T14-10-37-729Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 36647,
+  "error": null,
+  "variance": {
+    "min": 100,
+    "max": 100,
+    "spread": 0,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g6/contact",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g6/contact",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 100,
+      "accessibility": 79,
+      "best-practices": 96,
+      "seo": 91,
+      "agentic-browsing": 50
+    },
+    "timings": {
+      "fcp": 1053,
+      "lcp": 1053,
+      "si": 1053,
+      "tbt": 0,
+      "tti": 1053,
+      "cls": 0.002,
+      "ttfb": 603,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 2,
+      "networkRtt": 0,
+      "networkServerLatency": 2.7
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 3.9,
+      "elementRenderDelay": 59.3
+    },
+    "weight": {
+      "total": 46487,
+      "requests": 6,
+      "mainDocument": 2063,
+      "byType": {
+        "total": {
+          "bytes": 41044,
+          "requests": 5
+        },
+        "font": {
+          "bytes": 22095,
+          "requests": 1
+        },
+        "image": {
+          "bytes": 13264,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 3622,
+          "requests": 2
+        },
+        "document": {
+          "bytes": 2063,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "other": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 41044,
+          "requests": 5
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 2,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 0,
+      "bytes": 0,
+      "mainThreadMs": 0,
+      "top": []
+    },
+    "mainThread": {
+      "total": 168.3,
+      "byGroup": {
+        "other": 87.6,
+        "styleLayout": 61.1,
+        "scriptEvaluation": 9.2,
+        "paintCompositeRender": 5.7,
+        "parseHTML": 4.2,
+        "scriptParseCompile": 0.5
+      },
+      "bootupMs": 8,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 71,
+      "depth": 8,
+      "maxChildren": 7
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 2,
+      "poorlyCachedBytes": 35732.583333333336,
+      "poorlyCachedCount": 4
+    },
+    "accessibility": {
+      "failingCount": 4,
+      "applicableCount": 21,
+      "failingNodes": 4,
+      "failing": [
+        {
+          "id": "aria-allowed-attr",
+          "title": "`[aria-*]` attributes do not match their roles",
+          "weight": 10,
+          "nodes": 1
+        },
+        {
+          "id": "aria-prohibited-attr",
+          "title": "Elements use prohibited ARIA attributes",
+          "weight": 7,
+          "nodes": 1
+        },
+        {
+          "id": "link-name",
+          "title": "Links do not have a discernible name",
+          "weight": 7,
+          "nodes": 1
+        },
+        {
+          "id": "select-name",
+          "title": "Select elements do not have associated label elements.",
+          "weight": 10,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 1
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 1,
+      "baselineLimitedFeatures": 5
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 2724.5,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-26T14:14:43.313Z",
+      "runtimeMs": 5653.2
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1127,
+    "elementRenderDelay": 132.4
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "0d1c8ae5d7d230cc2e570b5d90cbe47ecd752c30",
+      "x-github-request-id": "D9A0:2F6259:3625EB:3A0011:6B083EC7",
+      "x-served-by": "cache-pdk-kpdk2140023-PDK"
+    },
+    "violations": 5,
+    "passes": 129,
+    "incomplete": 9,
+    "violationRules": 5,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "aria-allowed-attr",
+        "impact": "critical",
+        "nodes": 1,
+        "help": "Elements must only use supported ARIA attributes",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-allowed-attr?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": ".gen-hamburger",
+            "snippet": "<p type=\"button\" class=\"gen-hamburger\" aria-label=\"Menu\" aria-expanded=\"false\" aria-controls=\"gen-menu\"> <span></span> <span></span> <span></span></p>"
+          }
+        ]
+      },
+      {
+        "id": "aria-prohibited-attr",
+        "impact": "serious",
+        "nodes": 1,
+        "help": "Elements must only use permitted ARIA attributes",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-prohibited-attr?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": ".gen-hamburger",
+            "snippet": "<p type=\"button\" class=\"gen-hamburger\" aria-label=\"Menu\" aria-expanded=\"false\" aria-controls=\"gen-menu\"> <span></span> <span></span> <span></span></p>"
+          }
+        ]
+      },
+      {
+        "id": "link-name",
+        "impact": "serious",
+        "nodes": 1,
+        "help": "Links must have discernible text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": ".gen-logo",
+            "snippet": "<a class=\"gen-logo\" href=\"index.html\"><img src=\"image_global/logo.webp\" alt=\"\" height=\"70\"></a>"
+          }
+        ]
+      },
+      {
+        "id": "region",
+        "impact": "moderate",
+        "nodes": 1,
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "#modal-toggle",
+            "snippet": "<input class=\"checkbox\" type=\"checkbox\" id=\"modal-toggle\">"
+          }
+        ]
+      },
+      {
+        "id": "select-name",
+        "impact": "critical",
+        "nodes": 1,
+        "help": "Select element must have an accessible name",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/select-name?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "#sujet",
+            "snippet": "<select id=\"sujet\" name=\"sujet\"> <option value=\"Questions générales\"> Questions générales </option> <option value=\"Problemes techniques\"> Problemes techniques </option> <option value=\"Autres\"> Autres…"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}
