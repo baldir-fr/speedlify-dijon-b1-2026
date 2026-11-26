@@ -1,0 +1,275 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g1/cinema",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g1",
+  "groupName": "html-b1-2026-g1",
+  "timestamp": 1795658014253,
+  "date": "2026-11-26T01:53:34.253Z",
+  "runId": "2026-11-26T01-53-27-179Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 45230,
+  "error": null,
+  "variance": {
+    "min": 92,
+    "max": 95,
+    "spread": 3,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g1/cinema",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g1/cinema",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 94,
+      "accessibility": 100,
+      "best-practices": 96,
+      "seo": 91,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 2439,
+      "lcp": 2439,
+      "si": 2439,
+      "tbt": 0,
+      "tti": 2439,
+      "cls": 0.002,
+      "ttfb": 615,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 8,
+      "networkRtt": 0.1,
+      "networkServerLatency": 15.2
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 9.8,
+      "resourceLoadDelay": 9.3,
+      "resourceLoadDuration": 27.6,
+      "elementRenderDelay": 29.9
+    },
+    "weight": {
+      "total": 557518,
+      "requests": 17,
+      "mainDocument": 2424,
+      "byType": {
+        "total": {
+          "bytes": 552126,
+          "requests": 16
+        },
+        "image": {
+          "bytes": 519341,
+          "requests": 12
+        },
+        "font": {
+          "bytes": 22349,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 8012,
+          "requests": 2
+        },
+        "document": {
+          "bytes": 2424,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "other": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 552126,
+          "requests": 16
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 2,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 1,
+      "bytes": 22951,
+      "mainThreadMs": 0,
+      "top": [
+        {
+          "entity": "Google Fonts",
+          "bytes": 22951,
+          "mainThreadMs": 0,
+          "byType": {
+            "font": 22349,
+            "stylesheet": 602
+          },
+          "typedBytes": 22951
+        }
+      ]
+    },
+    "mainThread": {
+      "total": 183.9,
+      "byGroup": {
+        "other": 125.7,
+        "styleLayout": 31.8,
+        "paintCompositeRender": 9.7,
+        "scriptEvaluation": 8.5,
+        "parseHTML": 7.8,
+        "scriptParseCompile": 0.4
+      },
+      "bootupMs": 7.4,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 86,
+      "depth": 7,
+      "maxChildren": 5
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 5077,
+      "renderBlockingMs": 763,
+      "renderBlockingCount": 2,
+      "poorlyCachedBytes": 482855.0833333334,
+      "poorlyCachedCount": 13
+    },
+    "accessibility": {
+      "failingCount": 1,
+      "applicableCount": 22,
+      "failingNodes": 1,
+      "failing": [
+        {
+          "id": "td-has-header",
+          "title": "`<td>` elements in a large `<table>` do not have table headers.",
+          "weight": 0,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 1
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 1,
+      "baselineLimitedFeatures": 7
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 2448,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-26T01:53:45.987Z",
+      "runtimeMs": 6205.6
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 597.3,
+    "resourceLoadDelay": 0,
+    "resourceLoadDuration": 1091.3,
+    "elementRenderDelay": 304.6
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "c775f03012139058bc8b460898b7db772559c212",
+      "x-github-request-id": "12BC:1A369A:C166:1499F:6B079121",
+      "x-served-by": "cache-bfi-krnt7300079-BFI"
+    },
+    "violations": 6,
+    "passes": 236,
+    "incomplete": 0,
+    "violationRules": 1,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "empty-table-header",
+        "impact": "minor",
+        "nodes": 6,
+        "help": "Table header text should not be empty",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/empty-table-header?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "tr:nth-child(2) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(2) > th:nth-child(3)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(3) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(3) > th:nth-child(3)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(4) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}

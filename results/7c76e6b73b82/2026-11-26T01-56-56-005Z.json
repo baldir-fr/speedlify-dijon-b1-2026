@@ -1,0 +1,258 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g5/about",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g5",
+  "groupName": "html-b1-2026-g5",
+  "timestamp": 1795658216005,
+  "date": "2026-11-26T01:56:56.005Z",
+  "runId": "2026-11-26T01-53-27-179Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 35700,
+  "error": null,
+  "variance": {
+    "min": 100,
+    "max": 100,
+    "spread": 0,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g5/about",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g5/about",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 100,
+      "accessibility": 84,
+      "best-practices": 96,
+      "seo": 90,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 774,
+      "lcp": 774,
+      "si": 774,
+      "tbt": 0,
+      "tti": 774,
+      "cls": 0,
+      "ttfb": 609,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 8,
+      "networkRtt": 0,
+      "networkServerLatency": 9.3
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 10,
+      "elementRenderDelay": 34.2
+    },
+    "weight": {
+      "total": 7987,
+      "requests": 4,
+      "mainDocument": 733,
+      "byType": {
+        "total": {
+          "bytes": 2604,
+          "requests": 3
+        },
+        "image": {
+          "bytes": 964,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 907,
+          "requests": 1
+        },
+        "document": {
+          "bytes": 733,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "font": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "other": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 2604,
+          "requests": 3
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 1,
+      "fonts": 0
+    },
+    "thirdParty": {
+      "count": 0,
+      "bytes": 0,
+      "mainThreadMs": 0,
+      "top": []
+    },
+    "mainThread": {
+      "total": 92.4,
+      "byGroup": {
+        "other": 63.9,
+        "styleLayout": 13.4,
+        "scriptEvaluation": 7.9,
+        "paintCompositeRender": 4.3,
+        "parseHTML": 2.5,
+        "scriptParseCompile": 0.4
+      },
+      "bootupMs": 4,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 25,
+      "depth": 6,
+      "maxChildren": 3
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 1,
+      "poorlyCachedBytes": 1715.0833333333333,
+      "poorlyCachedCount": 2
+    },
+    "accessibility": {
+      "failingCount": 2,
+      "applicableCount": 13,
+      "failingNodes": 4,
+      "failing": [
+        {
+          "id": "color-contrast",
+          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+          "weight": 7,
+          "nodes": 3
+        },
+        {
+          "id": "target-size",
+          "title": "Touch targets do not have sufficient size or spacing.",
+          "weight": 7,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 1
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 7,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 1,
+      "baselineLimitedFeatures": 3
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 2482,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-26T01:57:08.857Z",
+      "runtimeMs": 5446.8
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1126.7,
+    "elementRenderDelay": 68.4
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "b20020aaf8b9db8b5ec456c5004c4b1ba3ccff56",
+      "x-github-request-id": "9280:11A763:D889:162E5:6B0791E9",
+      "x-served-by": "cache-bfi-krnt7300079-BFI"
+    },
+    "violations": 3,
+    "passes": 74,
+    "incomplete": 0,
+    "violationRules": 1,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodes": 3,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "nav > a[href=\"index.html\"]",
+            "snippet": "<a href=\"index.html\">Accueil</a>"
+          },
+          {
+            "selector": "a[href$=\"about.html\"]",
+            "snippet": "<a href=\"about.html\">À propos</a>"
+          },
+          {
+            "selector": ".shop",
+            "snippet": "<a href=\"shop.html\" class=\"shop\">Boutique</a>"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}
