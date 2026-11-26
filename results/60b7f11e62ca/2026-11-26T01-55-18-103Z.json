@@ -1,0 +1,261 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g1",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g1",
+  "groupName": "html-b1-2026-g1",
+  "timestamp": 1795658118103,
+  "date": "2026-11-26T01:55:18.103Z",
+  "runId": "2026-11-26T01-53-21-810Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 41329,
+  "error": null,
+  "variance": {
+    "min": 75,
+    "max": 79,
+    "spread": 4,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g1",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g1/",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 79,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 2477,
+      "lcp": 4815,
+      "si": 2477,
+      "tbt": 0,
+      "tti": 4815,
+      "cls": 0.011,
+      "ttfb": 615,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 18,
+      "networkRtt": 0,
+      "networkServerLatency": 37.2
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 35.3,
+      "resourceLoadDelay": 67.4,
+      "resourceLoadDuration": 15.8,
+      "elementRenderDelay": 91.9
+    },
+    "weight": {
+      "total": 665040,
+      "requests": 13,
+      "mainDocument": 2963,
+      "byType": {
+        "total": {
+          "bytes": 665040,
+          "requests": 13
+        },
+        "image": {
+          "bytes": 631465,
+          "requests": 7
+        },
+        "font": {
+          "bytes": 22349,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 8013,
+          "requests": 2
+        },
+        "document": {
+          "bytes": 2963,
+          "requests": 1
+        },
+        "other": {
+          "bytes": 250,
+          "requests": 2
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 665040,
+          "requests": 13
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 2,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 1,
+      "bytes": 22951,
+      "mainThreadMs": 0,
+      "top": [
+        {
+          "entity": "Google Fonts",
+          "bytes": 22951,
+          "mainThreadMs": 0,
+          "byType": {
+            "font": 22349,
+            "stylesheet": 602
+          },
+          "typedBytes": 22951
+        }
+      ]
+    },
+    "mainThread": {
+      "total": 132.7,
+      "byGroup": {
+        "other": 87.8,
+        "styleLayout": 23,
+        "scriptEvaluation": 8.9,
+        "paintCompositeRender": 6.7,
+        "parseHTML": 5.6,
+        "scriptParseCompile": 0.6
+      },
+      "bootupMs": 4.6,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 69,
+      "depth": 7,
+      "maxChildren": 5
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 5077,
+      "renderBlockingMs": 787,
+      "renderBlockingCount": 2,
+      "poorlyCachedBytes": 585636.3333333333,
+      "poorlyCachedCount": 8
+    },
+    "accessibility": {
+      "failingCount": 1,
+      "applicableCount": 22,
+      "failingNodes": 1,
+      "failing": [
+        {
+          "id": "td-has-header",
+          "title": "`<td>` elements in a large `<table>` do not have table headers.",
+          "weight": 0,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 0,
+      "applicableCount": 19,
+      "failing": []
+    },
+    "seo": {
+      "failingCount": 0,
+      "applicableCount": 8,
+      "failing": []
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 765.3,
+      "consoleErrors": 0,
+      "baselineLimitedFeatures": 7
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 3511,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-26T01:55:33.469Z",
+      "runtimeMs": 5798
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1695.8,
+    "resourceLoadDelay": 825.7,
+    "resourceLoadDuration": 1147.8,
+    "elementRenderDelay": 11
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "3aef31f0ff6c09777abdfe970bfc1aecec8e983e",
+      "x-github-request-id": "10C6:264A2A:475179:503A2D:6B079187",
+      "x-served-by": "cache-dfw-kdfw8210117-DFW"
+    },
+    "violations": 6,
+    "passes": 175,
+    "incomplete": 5,
+    "violationRules": 1,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "empty-table-header",
+        "impact": "minor",
+        "nodes": 6,
+        "help": "Table header text should not be empty",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/empty-table-header?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "tr:nth-child(2) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(2) > th:nth-child(3)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(3) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(3) > th:nth-child(3)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(4) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}
