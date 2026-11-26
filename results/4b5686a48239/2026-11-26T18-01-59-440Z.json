@@ -1,0 +1,263 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g6/produits",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g6",
+  "groupName": "html-b1-2026-g6",
+  "timestamp": 1795716119440,
+  "date": "2026-11-26T18:01:59.440Z",
+  "runId": "2026-11-26T18-00-45-445Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 39232,
+  "error": null,
+  "variance": {
+    "min": 97,
+    "max": 99,
+    "spread": 2,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g6/produits",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g6/produits",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 99,
+      "accessibility": 90,
+      "best-practices": 96,
+      "seo": 91,
+      "agentic-browsing": 50
+    },
+    "timings": {
+      "fcp": 792,
+      "lcp": 1959,
+      "si": 792,
+      "tbt": 0,
+      "tti": 1959,
+      "cls": 0,
+      "ttfb": 609,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 9,
+      "networkRtt": 0,
+      "networkServerLatency": 9.4
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 10.2,
+      "elementRenderDelay": 47.5
+    },
+    "weight": {
+      "total": 233925,
+      "requests": 7,
+      "mainDocument": 1724,
+      "byType": {
+        "total": {
+          "bytes": 228507,
+          "requests": 6
+        },
+        "image": {
+          "bytes": 223720,
+          "requests": 4
+        },
+        "stylesheet": {
+          "bytes": 3063,
+          "requests": 1
+        },
+        "document": {
+          "bytes": 1724,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "font": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "other": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 228507,
+          "requests": 6
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 1,
+      "fonts": 0
+    },
+    "thirdParty": {
+      "count": 0,
+      "bytes": 0,
+      "mainThreadMs": 0,
+      "top": []
+    },
+    "mainThread": {
+      "total": 133.8,
+      "byGroup": {
+        "other": 76.1,
+        "styleLayout": 38.8,
+        "scriptEvaluation": 7.7,
+        "paintCompositeRender": 6.3,
+        "parseHTML": 4.5,
+        "scriptParseCompile": 0.4
+      },
+      "bootupMs": 6.6,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 180,
+      "depth": 8,
+      "maxChildren": 17
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 1,
+      "poorlyCachedBytes": 207884.41666666666,
+      "poorlyCachedCount": 5
+    },
+    "accessibility": {
+      "failingCount": 2,
+      "applicableCount": 23,
+      "failingNodes": 2,
+      "failing": [
+        {
+          "id": "aria-command-name",
+          "title": "`button`, `link`, and `menuitem` elements do not have accessible names.",
+          "weight": 7,
+          "nodes": 1
+        },
+        {
+          "id": "label",
+          "title": "Form elements do not have associated labels",
+          "weight": 10,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 1
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 1,
+      "baselineLimitedFeatures": 4
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 3014,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-26T18:02:14.815Z",
+      "runtimeMs": 5764.9
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1126.7,
+    "elementRenderDelay": 139.5
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "4ead11f4d394fd8fe9356fd4e10c673cc2c8a70c",
+      "x-github-request-id": "C068:2E2973:4D5A8:5090F:6B087415",
+      "x-served-by": "cache-hhr-khhr2060037-HHR"
+    },
+    "violations": 2,
+    "passes": 504,
+    "incomplete": 0,
+    "violationRules": 2,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "aria-command-name",
+        "impact": "serious",
+        "nodes": 1,
+        "help": "ARIA commands must have an accessible name",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-command-name?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": ".gen-hamburger",
+            "snippet": "<span role=\"button\" class=\"gen-hamburger\" aria-expanded=\"false\" aria-controls=\"gen-menu\"> <span></span> <span></span> <span></span></span>"
+          }
+        ]
+      },
+      {
+        "id": "label",
+        "impact": "critical",
+        "nodes": 1,
+        "help": "Form elements must have labels",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/label?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "#modal-toggle",
+            "snippet": "<input class=\"checkbox\" type=\"checkbox\" id=\"modal-toggle\">"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}
