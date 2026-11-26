@@ -1,0 +1,316 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g1/jeux",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g1",
+  "groupName": "html-b1-2026-g1",
+  "timestamp": 1795686616947,
+  "date": "2026-11-26T09:50:16.947Z",
+  "runId": "2026-11-26T09-49-27-541Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 39616,
+  "error": null,
+  "variance": {
+    "min": 92,
+    "max": 95,
+    "spread": 3,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g1/jeux",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g1/jeux",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 94,
+      "accessibility": 95,
+      "best-practices": 92,
+      "seo": 91,
+      "agentic-browsing": 50
+    },
+    "timings": {
+      "fcp": 2426,
+      "lcp": 2555,
+      "si": 2426,
+      "tbt": 0,
+      "tti": 2555,
+      "cls": 0.001,
+      "ttfb": 605,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 3,
+      "networkRtt": 0,
+      "networkServerLatency": 16.5
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 5,
+      "resourceLoadDelay": 9,
+      "resourceLoadDuration": 8.6,
+      "elementRenderDelay": 60.3
+    },
+    "weight": {
+      "total": 366522,
+      "requests": 24,
+      "mainDocument": 2736,
+      "byType": {
+        "total": {
+          "bytes": 361242,
+          "requests": 23
+        },
+        "image": {
+          "bytes": 325182,
+          "requests": 16
+        },
+        "font": {
+          "bytes": 22349,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 7980,
+          "requests": 4
+        },
+        "document": {
+          "bytes": 5731,
+          "requests": 2
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "other": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 361242,
+          "requests": 23
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 4,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 1,
+      "bytes": 24866,
+      "mainThreadMs": 0,
+      "top": [
+        {
+          "entity": "Google Fonts",
+          "bytes": 24866,
+          "mainThreadMs": 0,
+          "byType": {
+            "font": 22349,
+            "stylesheet": 2517
+          },
+          "typedBytes": 24866
+        }
+      ]
+    },
+    "mainThread": {
+      "total": 223.7,
+      "byGroup": {
+        "other": 146.9,
+        "styleLayout": 35,
+        "parseHTML": 19.5,
+        "scriptEvaluation": 13,
+        "paintCompositeRender": 7.6,
+        "scriptParseCompile": 1.8
+      },
+      "bootupMs": 13.1,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 88,
+      "depth": 7,
+      "maxChildren": 5
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 5056,
+      "renderBlockingMs": 767,
+      "renderBlockingCount": 2,
+      "poorlyCachedBytes": 296251.0833333333,
+      "poorlyCachedCount": 17
+    },
+    "accessibility": {
+      "failingCount": 2,
+      "applicableCount": 23,
+      "failingNodes": 9,
+      "failing": [
+        {
+          "id": "link-name",
+          "title": "Links do not have a discernible name",
+          "weight": 7,
+          "nodes": 8
+        },
+        {
+          "id": "td-has-header",
+          "title": "`<td>` elements in a large `<table>` do not have table headers.",
+          "weight": 0,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 2,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "image-aspect-ratio",
+          "title": "Displays images with incorrect aspect ratio",
+          "weight": 1,
+          "nodes": 1
+        },
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 2
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 2,
+      "baselineLimitedFeatures": 7
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 2511.5,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-26T09:50:24.699Z",
+      "runtimeMs": 6049.9
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 604.1,
+    "resourceLoadDelay": 0,
+    "resourceLoadDuration": 960.2,
+    "elementRenderDelay": 470.5
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "7da0ff952a145ff3a85bbcad71c8f7a5e59c371a",
+      "x-github-request-id": "80E0:2A7F1E:301930:3407B0:6B0800DA",
+      "x-served-by": "cache-iad-khef600027-IAD"
+    },
+    "violations": 14,
+    "passes": 228,
+    "incomplete": 0,
+    "violationRules": 2,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "link-name",
+        "impact": "serious",
+        "nodes": 8,
+        "help": "Links must have discernible text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "section:nth-child(2) > ul > li:nth-child(1) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Jeux/images/Elden_Ring.webp\" alt=\"\"></a>"
+          },
+          {
+            "selector": "section:nth-child(2) > ul > li:nth-child(2) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Jeux/images/Clair_Obscur.webp\" alt=\"\"></a>"
+          },
+          {
+            "selector": "section:nth-child(2) > ul > li:nth-child(3) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Jeux/images/Helldivers.webp\" alt=\"\"></a>"
+          },
+          {
+            "selector": "section:nth-child(3) > ul > li:nth-child(1) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Jeux/images/The_Last_of_Us.webp\" alt=\"\"></a>"
+          },
+          {
+            "selector": "section:nth-child(3) > ul > li:nth-child(2) > a[href=\"#\"]",
+            "snippet": "<a href=\"#\"><img src=\"Jeux/images/Star_Wars_Battlefront.webp\" alt=\"\"></a>"
+          }
+        ]
+      },
+      {
+        "id": "empty-table-header",
+        "impact": "minor",
+        "nodes": 6,
+        "help": "Table header text should not be empty",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/empty-table-header?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "tr:nth-child(2) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(2) > th:nth-child(3)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(3) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(3) > th:nth-child(3)",
+            "snippet": "<th></th>"
+          },
+          {
+            "selector": "tr:nth-child(4) > th:nth-child(1)",
+            "snippet": "<th></th>"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}

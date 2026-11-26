@@ -1,0 +1,260 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g4/futur",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g4",
+  "groupName": "html-b1-2026-g4",
+  "timestamp": 1795686691680,
+  "date": "2026-11-26T09:51:31.680Z",
+  "runId": "2026-11-26T09-49-27-541Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 41452,
+  "error": null,
+  "variance": {
+    "min": 96,
+    "max": 99,
+    "spread": 3,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g4/futur",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g4/futur",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 96,
+      "accessibility": 94,
+      "best-practices": 96,
+      "seo": 82,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 781,
+      "lcp": 2704,
+      "si": 781,
+      "tbt": 0,
+      "tti": 2704,
+      "cls": 0,
+      "ttfb": 604,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 3,
+      "networkRtt": 0,
+      "networkServerLatency": 4.3
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 4.6,
+      "elementRenderDelay": 60.1
+    },
+    "weight": {
+      "total": 273233,
+      "requests": 10,
+      "mainDocument": 1889,
+      "byType": {
+        "total": {
+          "bytes": 267768,
+          "requests": 9
+        },
+        "image": {
+          "bytes": 165866,
+          "requests": 4
+        },
+        "font": {
+          "bytes": 91320,
+          "requests": 1
+        },
+        "script": {
+          "bytes": 4566,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 3661,
+          "requests": 1
+        },
+        "document": {
+          "bytes": 1889,
+          "requests": 1
+        },
+        "other": {
+          "bytes": 466,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 267768,
+          "requests": 9
+        }
+      },
+      "scripts": 1,
+      "stylesheets": 1,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 1,
+      "bytes": 466,
+      "mainThreadMs": 0,
+      "top": [
+        {
+          "entity": "baldir.fr",
+          "bytes": 466,
+          "mainThreadMs": 0,
+          "byType": {
+            "other": 466
+          },
+          "typedBytes": 466
+        }
+      ]
+    },
+    "mainThread": {
+      "total": 199.2,
+      "byGroup": {
+        "other": 104.2,
+        "styleLayout": 47.1,
+        "scriptEvaluation": 27.3,
+        "parseHTML": 9.5,
+        "paintCompositeRender": 8.7,
+        "scriptParseCompile": 2.4
+      },
+      "bootupMs": 13.6,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 113,
+      "depth": 9,
+      "maxChildren": 9
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 1,
+      "poorlyCachedBytes": 243295.24999999997,
+      "poorlyCachedCount": 7
+    },
+    "accessibility": {
+      "failingCount": 1,
+      "applicableCount": 23,
+      "failingNodes": 1,
+      "failing": [
+        {
+          "id": "image-alt",
+          "title": "Image elements do not have `[alt]` attributes",
+          "weight": 10,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 1
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 2,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        },
+        {
+          "id": "image-alt",
+          "title": "Image elements do not have `[alt]` attributes",
+          "weight": 1,
+          "nodes": 1
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 1,
+      "baselineLimitedFeatures": 10
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 2516.5,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-26T09:51:48.816Z",
+      "runtimeMs": 5746.1
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1127,
+    "elementRenderDelay": 295.6
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "ad2ced963c9579b946a3a730cd9754c583b09d5b",
+      "x-github-request-id": "B66E:364744:1F2A34:242702:6B080120",
+      "x-served-by": "cache-iad-khef600027-IAD"
+    },
+    "violations": 1,
+    "passes": 268,
+    "incomplete": 22,
+    "violationRules": 1,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "image-alt",
+        "impact": "critical",
+        "nodes": 1,
+        "help": "Images must have alternative text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/image-alt?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": ".slide:nth-child(4) > .actu > img",
+            "snippet": "<img>"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}
