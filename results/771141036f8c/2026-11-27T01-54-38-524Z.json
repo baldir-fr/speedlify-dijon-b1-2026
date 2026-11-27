@@ -1,0 +1,213 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g1/cinema",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g1",
+  "groupName": "html-b1-2026-g1",
+  "timestamp": 1795744478524,
+  "date": "2026-11-27T01:54:38.524Z",
+  "runId": "2026-11-27T01-51-59-142Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 40419,
+  "error": null,
+  "variance": {
+    "min": 98,
+    "max": 100,
+    "spread": 2,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g1/cinema",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g1/cinema",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 822,
+      "lcp": 2484,
+      "si": 822,
+      "tbt": 0,
+      "tti": 2582,
+      "cls": 0,
+      "ttfb": 609,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 13,
+      "networkRtt": 0,
+      "networkServerLatency": 9.2
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 14.9,
+      "resourceLoadDelay": 7.3,
+      "resourceLoadDuration": 10.9,
+      "elementRenderDelay": 39
+    },
+    "weight": {
+      "total": 636091,
+      "requests": 18,
+      "mainDocument": 2092,
+      "byType": {
+        "total": {
+          "bytes": 636091,
+          "requests": 18
+        },
+        "image": {
+          "bytes": 526341,
+          "requests": 12
+        },
+        "font": {
+          "bytes": 86039,
+          "requests": 2
+        },
+        "other": {
+          "bytes": 17484,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 4135,
+          "requests": 2
+        },
+        "document": {
+          "bytes": 2092,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 636091,
+          "requests": 18
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 2,
+      "fonts": 2
+    },
+    "thirdParty": {
+      "count": 0,
+      "bytes": 0,
+      "mainThreadMs": 0,
+      "top": []
+    },
+    "mainThread": {
+      "total": 208.2,
+      "byGroup": {
+        "other": 97.1,
+        "parseHTML": 48.7,
+        "styleLayout": 37.7,
+        "scriptEvaluation": 14.8,
+        "paintCompositeRender": 9.3,
+        "scriptParseCompile": 0.5
+      },
+      "bootupMs": 13.5,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 118,
+      "depth": 7,
+      "maxChildren": 5
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 1,
+      "poorlyCachedBytes": 565138.7500000002,
+      "poorlyCachedCount": 16
+    },
+    "accessibility": {
+      "failingCount": 0,
+      "applicableCount": 22,
+      "failingNodes": 0,
+      "failing": []
+    },
+    "bestPractices": {
+      "failingCount": 0,
+      "applicableCount": 19,
+      "failing": []
+    },
+    "seo": {
+      "failingCount": 0,
+      "applicableCount": 8,
+      "failing": []
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 0,
+      "baselineLimitedFeatures": 8
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 2977.5,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-27T01:54:52.384Z",
+      "runtimeMs": 5755.2
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 591.8,
+    "resourceLoadDelay": 0,
+    "resourceLoadDuration": 1088.2,
+    "elementRenderDelay": 25.1
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "ad2450da94603a4c84eee7c6e1d58f00e83d4a60",
+      "x-github-request-id": "170A:1DAE65:1ABD3:2CFB7:6B08E2DF",
+      "x-served-by": "cache-bfi-krnt7300067-BFI"
+    },
+    "violations": 0,
+    "passes": 267,
+    "incomplete": 0,
+    "violationRules": 0,
+    "version": "4.13.0",
+    "top": [],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}

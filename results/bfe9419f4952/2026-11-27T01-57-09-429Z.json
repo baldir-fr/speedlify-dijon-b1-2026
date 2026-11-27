@@ -1,0 +1,249 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g4/restaurant",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g4",
+  "groupName": "html-b1-2026-g4",
+  "timestamp": 1795744629429,
+  "date": "2026-11-27T01:57:09.429Z",
+  "runId": "2026-11-27T01-51-59-142Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 37894,
+  "error": null,
+  "variance": {
+    "min": 98,
+    "max": 99,
+    "spread": 1,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g4/restaurant",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g4/restaurant",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 780,
+      "lcp": 2119,
+      "si": 780,
+      "tbt": 0,
+      "tti": 2119,
+      "cls": 0,
+      "ttfb": 610,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 9,
+      "networkRtt": 0,
+      "networkServerLatency": 9.8
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 10.3,
+      "resourceLoadDelay": 7.6,
+      "resourceLoadDuration": 12.8,
+      "elementRenderDelay": 29.4
+    },
+    "weight": {
+      "total": 502343,
+      "requests": 17,
+      "mainDocument": 1577,
+      "byType": {
+        "total": {
+          "bytes": 502343,
+          "requests": 17
+        },
+        "image": {
+          "bytes": 400578,
+          "requests": 11
+        },
+        "font": {
+          "bytes": 91354,
+          "requests": 1
+        },
+        "script": {
+          "bytes": 4587,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 3772,
+          "requests": 1
+        },
+        "document": {
+          "bytes": 1577,
+          "requests": 1
+        },
+        "other": {
+          "bytes": 475,
+          "requests": 2
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 502343,
+          "requests": 17
+        }
+      },
+      "scripts": 1,
+      "stylesheets": 1,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 1,
+      "bytes": 475,
+      "mainThreadMs": 0,
+      "top": [
+        {
+          "entity": "baldir.fr",
+          "bytes": 475,
+          "mainThreadMs": 0,
+          "byType": {
+            "other": 475
+          },
+          "typedBytes": 475
+        }
+      ]
+    },
+    "mainThread": {
+      "total": 167.1,
+      "byGroup": {
+        "other": 103.8,
+        "styleLayout": 23.8,
+        "scriptEvaluation": 21.6,
+        "paintCompositeRender": 10.6,
+        "parseHTML": 6.6,
+        "scriptParseCompile": 0.7
+      },
+      "bootupMs": 10.2,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 113,
+      "depth": 9,
+      "maxChildren": 10
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 1,
+      "poorlyCachedBytes": 458600.0833333334,
+      "poorlyCachedCount": 14
+    },
+    "accessibility": {
+      "failingCount": 0,
+      "applicableCount": 24,
+      "failingNodes": 0,
+      "failing": []
+    },
+    "bestPractices": {
+      "failingCount": 0,
+      "applicableCount": 19,
+      "failing": []
+    },
+    "seo": {
+      "failingCount": 0,
+      "applicableCount": 8,
+      "failing": []
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 0,
+      "baselineLimitedFeatures": 11
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 2996.5,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-27T01:57:16.807Z",
+      "runtimeMs": 5707.2
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 593.9,
+    "resourceLoadDelay": 0,
+    "resourceLoadDuration": 1053.6,
+    "elementRenderDelay": 23.9
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "656578e3f4230b0ac0b45ae2e72f63aeeb43054c",
+      "x-github-request-id": "9C88:FCA38:1B144:2D6A5:6B08E369",
+      "x-served-by": "cache-bfi-krnt7300067-BFI"
+    },
+    "violations": 4,
+    "passes": 318,
+    "incomplete": 18,
+    "violationRules": 1,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "image-redundant-alt",
+        "impact": "minor",
+        "nodes": 4,
+        "help": "Alternative text of images should not be repeated as text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/image-redundant-alt?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "img[src$=\"cavalasagnes.webp\"]",
+            "snippet": "<img class=\"carte_image\" src=\"image/cavalasagnes.webp\" alt=\"Cavalasagnes\">"
+          },
+          {
+            "selector": "img[src$=\"hippoburger.webp\"]",
+            "snippet": "<img class=\"carte_image\" src=\"image/hippoburger.webp\" alt=\"HIPPOBURGER\" loading=\"lazy\">"
+          },
+          {
+            "selector": "img[src$=\"poulaitine.webp\"]",
+            "snippet": "<img class=\"carte_image\" src=\"image/poulaitine.webp\" alt=\"POULAINTINE\" loading=\"lazy\">"
+          },
+          {
+            "selector": "img[src$=\"pur-sanguignon.webp\"]",
+            "snippet": "<img class=\"carte_image\" src=\"image/pur-sanguignon.webp\" alt=\"PUR-SANGUIGNON\" loading=\"lazy\">"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}
