@@ -1,0 +1,303 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g6",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g6",
+  "groupName": "html-b1-2026-g6",
+  "timestamp": 1795744532188,
+  "date": "2026-11-27T01:55:32.188Z",
+  "runId": "2026-11-27T01-52-03-148Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 38611,
+  "error": null,
+  "variance": {
+    "min": 99,
+    "max": 99,
+    "spread": 0,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g6",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g6/",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 99,
+      "accessibility": 87,
+      "best-practices": 96,
+      "seo": 91,
+      "agentic-browsing": 50
+    },
+    "timings": {
+      "fcp": 1054,
+      "lcp": 2104,
+      "si": 1054,
+      "tbt": 0,
+      "tti": 2104,
+      "cls": 0.026,
+      "ttfb": 604,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 2,
+      "networkRtt": 0,
+      "networkServerLatency": 3.6
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 7.9,
+      "resourceLoadDelay": 9.4,
+      "resourceLoadDuration": 10.1,
+      "elementRenderDelay": 66.5
+    },
+    "weight": {
+      "total": 250761,
+      "requests": 9,
+      "mainDocument": 1567,
+      "byType": {
+        "total": {
+          "bytes": 245331,
+          "requests": 8
+        },
+        "image": {
+          "bytes": 218242,
+          "requests": 3
+        },
+        "font": {
+          "bytes": 21970,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 3357,
+          "requests": 2
+        },
+        "document": {
+          "bytes": 1567,
+          "requests": 1
+        },
+        "other": {
+          "bytes": 195,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 245331,
+          "requests": 8
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 2,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 0,
+      "bytes": 0,
+      "mainThreadMs": 0,
+      "top": []
+    },
+    "mainThread": {
+      "total": 176.7,
+      "byGroup": {
+        "other": 106.3,
+        "styleLayout": 43.8,
+        "scriptEvaluation": 12.9,
+        "paintCompositeRender": 7.5,
+        "parseHTML": 4.7,
+        "scriptParseCompile": 1.7
+      },
+      "bootupMs": 12.5,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 65,
+      "depth": 7,
+      "maxChildren": 7
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 2,
+      "poorlyCachedBytes": 223271.5833333333,
+      "poorlyCachedCount": 6
+    },
+    "accessibility": {
+      "failingCount": 3,
+      "applicableCount": 25,
+      "failingNodes": 3,
+      "failing": [
+        {
+          "id": "aria-command-name",
+          "title": "`button`, `link`, and `menuitem` elements do not have accessible names.",
+          "weight": 7,
+          "nodes": 1
+        },
+        {
+          "id": "label",
+          "title": "Form elements do not have associated labels",
+          "weight": 10,
+          "nodes": 1
+        },
+        {
+          "id": "link-name",
+          "title": "Links do not have a discernible name",
+          "weight": 7,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 1
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 753.6,
+      "consoleErrors": 1,
+      "baselineLimitedFeatures": 4
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 2522,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-27T01:55:45.897Z",
+      "runtimeMs": 5745.4
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1178.3,
+    "resourceLoadDelay": 0,
+    "resourceLoadDuration": 1863.5,
+    "elementRenderDelay": 39.9
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "4b5444bc27eb94f03b174037caf6d437eaaf9fd7",
+      "x-github-request-id": "19EA:2023D9:8F49C:A44C4:6B08E315",
+      "x-served-by": "cache-pao-kpao1770027-PAO"
+    },
+    "violations": 5,
+    "passes": 137,
+    "incomplete": 3,
+    "violationRules": 4,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "nodes": 2,
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "#modal-toggle",
+            "snippet": "<input class=\"checkbox\" type=\"checkbox\" id=\"modal-toggle\" tabindex=\"-1\">"
+          },
+          {
+            "selector": ".banniere",
+            "snippet": "<div class=\"banniere\"> BLACK FRIDAY -50 % </div>"
+          }
+        ]
+      },
+      {
+        "id": "aria-command-name",
+        "impact": "serious",
+        "nodes": 1,
+        "help": "ARIA commands must have an accessible name",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-command-name?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": ".gen-hamburger",
+            "snippet": "<span role=\"button\" class=\"gen-hamburger\" aria-expanded=\"false\" aria-controls=\"gen-menu\"> <span></span> <span></span> <span></span></span>"
+          }
+        ]
+      },
+      {
+        "id": "label",
+        "impact": "critical",
+        "nodes": 1,
+        "help": "Form elements must have labels",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/label?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "#modal-toggle",
+            "snippet": "<input class=\"checkbox\" type=\"checkbox\" id=\"modal-toggle\" tabindex=\"-1\">"
+          }
+        ]
+      },
+      {
+        "id": "link-name",
+        "impact": "serious",
+        "nodes": 1,
+        "help": "Links must have discernible text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": ".gen-logo",
+            "snippet": "<a class=\"gen-logo\" href=\"index.html\"><img src=\"image_global/logo.webp\" alt=\"\" height=\"70\"></a>"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}
