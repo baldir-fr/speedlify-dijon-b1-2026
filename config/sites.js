@@ -60,6 +60,8 @@ export default {
                 {url: "https://coda-dijon.github.io/html-b1-2026-g1/cinema"},
                 // {url: "https://coda-dijon.github.io/html-b1-2026-g1/cours"},
                 {url: "https://coda-dijon.github.io/html-b1-2026-g1/Jeux/pages/GTA6"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g1/Musiques/pages/Alba_Lheure_Bleu"},
+                {url: "https://coda-dijon.github.io/html-b1-2026-g1/Films/pages/Arcane"},
             ],
         },
         "html-b1-2026-g2": {
