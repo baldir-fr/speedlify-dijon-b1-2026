@@ -1,0 +1,280 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g5",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g5",
+  "groupName": "html-b1-2026-g5",
+  "timestamp": 1795827592697,
+  "date": "2026-11-28T00:59:52.697Z",
+  "runId": "2026-11-28T00-56-41-544Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 37880,
+  "error": null,
+  "variance": {
+    "min": 87,
+    "max": 87,
+    "spread": 0,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g5",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g5/",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 87,
+      "accessibility": 92,
+      "best-practices": 96,
+      "seo": 91,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 2430,
+      "lcp": 3607,
+      "si": 2430,
+      "tbt": 0,
+      "tti": 3607,
+      "cls": 0.002,
+      "ttfb": 607,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 3,
+      "networkRtt": 0.1,
+      "networkServerLatency": 18.1
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 8.5,
+      "resourceLoadDelay": 7,
+      "resourceLoadDuration": 12,
+      "elementRenderDelay": 66.4
+    },
+    "weight": {
+      "total": 479028,
+      "requests": 13,
+      "mainDocument": 1984,
+      "byType": {
+        "total": {
+          "bytes": 473627,
+          "requests": 12
+        },
+        "image": {
+          "bytes": 433075,
+          "requests": 7
+        },
+        "font": {
+          "bytes": 35540,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 2841,
+          "requests": 2
+        },
+        "document": {
+          "bytes": 1984,
+          "requests": 1
+        },
+        "other": {
+          "bytes": 187,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 473627,
+          "requests": 12
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 2,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 1,
+      "bytes": 36926,
+      "mainThreadMs": 0,
+      "top": [
+        {
+          "entity": "Google Fonts",
+          "bytes": 36926,
+          "mainThreadMs": 0,
+          "byType": {
+            "font": 35540,
+            "stylesheet": 1386
+          },
+          "typedBytes": 36926
+        }
+      ]
+    },
+    "mainThread": {
+      "total": 133.3,
+      "byGroup": {
+        "other": 84.4,
+        "styleLayout": 24.7,
+        "scriptEvaluation": 11.6,
+        "paintCompositeRender": 6.1,
+        "parseHTML": 5.1,
+        "scriptParseCompile": 1.4
+      },
+      "bootupMs": 4,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 68,
+      "depth": 7,
+      "maxChildren": 4
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 768,
+      "renderBlockingCount": 2,
+      "poorlyCachedBytes": 398319.1666666667,
+      "poorlyCachedCount": 8
+    },
+    "accessibility": {
+      "failingCount": 1,
+      "applicableCount": 15,
+      "failingNodes": 3,
+      "failing": [
+        {
+          "id": "color-contrast",
+          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+          "weight": 7,
+          "nodes": 3
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 1
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 756.6,
+      "consoleErrors": 1,
+      "baselineLimitedFeatures": 6
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 3438,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-28T01:00:05.302Z",
+      "runtimeMs": 5469.6
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1164.8,
+    "resourceLoadDelay": 0,
+    "resourceLoadDuration": 3089.9,
+    "elementRenderDelay": 42.3
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "3c985b20aefd3833248efe901c8497130f0fd8dc",
+      "x-github-request-id": "74BC:3B0E5:E1DD11:F9CC19:6B0A2789",
+      "x-served-by": "cache-iad-kcgs7200033-IAD"
+    },
+    "violations": 4,
+    "passes": 151,
+    "incomplete": 1,
+    "violationRules": 2,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodes": 3,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "div:nth-child(2) > ul > li:nth-child(1) > a",
+            "snippet": "<a href=\"https://github.com/Coda-Dijon/html-b1-2026-g5\">Projet</a>"
+          },
+          {
+            "selector": "a[href$=\"Hastu-r\"]",
+            "snippet": "<a href=\"https://github.com/Hastu-r\">Hastur</a>"
+          },
+          {
+            "selector": "a[href$=\"djaana\"]",
+            "snippet": "<a href=\"https://github.com/djaana\">djaana</a>"
+          }
+        ]
+      },
+      {
+        "id": "page-has-heading-one",
+        "impact": "moderate",
+        "nodes": 1,
+        "help": "Page should contain a level-one heading",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/page-has-heading-one?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "html",
+            "snippet": "<html lang=\"fr\">"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}

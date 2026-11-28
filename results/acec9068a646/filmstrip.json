@@ -1,45 +1,45 @@
 {
-  "timestamp": 1795801756697,
+  "timestamp": 1795827592697,
   "height": 498,
   "width": 250,
-  "settledAt": 4319,
+  "settledAt": 4297,
   "throttlingMethod": "devtools",
   "markers": {
-    "ttfb": 1696,
-    "fcp": 1791,
-    "lcp": 4320
+    "ttfb": 1694,
+    "fcp": 1820,
+    "lcp": 4297
   },
   "frames": [
     {
-      "timing": 540,
+      "timing": 537,
       "file": "e687bc0fd368.jpg"
     },
     {
-      "timing": 1080,
+      "timing": 1074,
       "file": "e687bc0fd368.jpg"
     },
     {
-      "timing": 1620,
+      "timing": 1611,
       "file": "e687bc0fd368.jpg"
     },
     {
-      "timing": 2160,
-      "file": "26175c7b6070.jpg"
-    },
-    {
-      "timing": 2699,
+      "timing": 2149,
       "file": "25e601f5d6dc.jpg"
     },
     {
-      "timing": 3239,
+      "timing": 2686,
+      "file": "25e601f5d6dc.jpg"
+    },
+    {
+      "timing": 3223,
       "file": "f0a6275a20af.jpg"
     },
     {
-      "timing": 3779,
+      "timing": 3760,
       "file": "283f5987141e.jpg"
     },
     {
-      "timing": 4319,
+      "timing": 4297,
       "file": "906accb9bc87.jpg"
     }
   ],
