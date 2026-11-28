@@ -1,0 +1,245 @@
+{
+  "url": "https://coda-dijon.github.io/html-b1-2026-g6",
+  "name": "coda-dijon.github.io",
+  "group": "html-b1-2026-g6",
+  "groupName": "html-b1-2026-g6",
+  "timestamp": 1795827624436,
+  "date": "2026-11-28T01:00:24.436Z",
+  "runId": "2026-11-28T00-56-46-895Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 37096,
+  "error": null,
+  "variance": {
+    "min": 99,
+    "max": 99,
+    "spread": 0,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://coda-dijon.github.io/html-b1-2026-g6",
+    "finalUrl": "https://coda-dijon.github.io/html-b1-2026-g6/",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 96,
+      "seo": 91,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 1058,
+      "lcp": 2108,
+      "si": 1058,
+      "tbt": 0,
+      "tti": 2108,
+      "cls": 0.027,
+      "ttfb": 608,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 8,
+      "networkRtt": 0,
+      "networkServerLatency": 8.1
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 18.3,
+      "resourceLoadDelay": 6.8,
+      "resourceLoadDuration": 11.1,
+      "elementRenderDelay": 43
+    },
+    "weight": {
+      "total": 250770,
+      "requests": 9,
+      "mainDocument": 1620,
+      "byType": {
+        "total": {
+          "bytes": 245348,
+          "requests": 8
+        },
+        "image": {
+          "bytes": 218265,
+          "requests": 3
+        },
+        "font": {
+          "bytes": 21967,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 3311,
+          "requests": 2
+        },
+        "document": {
+          "bytes": 1620,
+          "requests": 1
+        },
+        "other": {
+          "bytes": 185,
+          "requests": 1
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 245348,
+          "requests": 8
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 2,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 0,
+      "bytes": 0,
+      "mainThreadMs": 0,
+      "top": []
+    },
+    "mainThread": {
+      "total": 108.2,
+      "byGroup": {
+        "other": 63.7,
+        "styleLayout": 23.6,
+        "scriptEvaluation": 11.7,
+        "paintCompositeRender": 4.5,
+        "parseHTML": 3.2,
+        "scriptParseCompile": 1.6
+      },
+      "bootupMs": 3.8,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 65,
+      "depth": 7,
+      "maxChildren": 7
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 2,
+      "poorlyCachedBytes": 223247.75,
+      "poorlyCachedCount": 6
+    },
+    "accessibility": {
+      "failingCount": 0,
+      "applicableCount": 21,
+      "failingNodes": 0,
+      "failing": []
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 19,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 1
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": 1,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 758.1,
+      "consoleErrors": 1,
+      "baselineLimitedFeatures": 5
+    },
+    "environment": {
+      "lighthouseVersion": "13.4.1",
+      "benchmarkIndex": 3456,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-28T01:00:37.528Z",
+      "runtimeMs": 5470.6
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1169.8,
+    "resourceLoadDelay": 0,
+    "resourceLoadDuration": 1866.9,
+    "elementRenderDelay": 29.4
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "github",
+      "name": "GitHub Pages",
+      "icon": "Github",
+      "source": "x-github-request-id"
+    },
+    "headers": {
+      "server": "GitHub.com",
+      "via": "1.1 varnish",
+      "x-fastly-request-id": "38b63b15c1783e1bd4cbbf63685632eb0505f6ce",
+      "x-github-request-id": "C1D4:28CB6C:6490E:A465B:6B0A27A9",
+      "x-served-by": "cache-bfi-kbfi7400079-BFI"
+    },
+    "violations": 2,
+    "passes": 128,
+    "incomplete": 3,
+    "violationRules": 1,
+    "version": "4.13.0",
+    "top": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "nodes": 2,
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=axe-puppeteer",
+        "samples": [
+          {
+            "selector": "#modal-toggle",
+            "snippet": "<input class=\"checkbox\" type=\"checkbox\" id=\"modal-toggle\" tabindex=\"-1\">"
+          },
+          {
+            "selector": ".banniere",
+            "snippet": "<div class=\"banniere\"> BLACK FRIDAY -50 % </div>"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "consecutiveFailures": 0
+}

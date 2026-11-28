@@ -1,3 +1,4 @@
-{"version":1,"url":"https://coda-dijon.github.io/html-b1-2026-g1/Musiques/pages/Alba_Lheure_Bleu","updated":"2026-11-27T17:46:22.509Z","points":[
-{"t":1795801557690,"error":"ERRORED_DOCUMENT_REQUEST: Lighthouse was unable to reliably load the page you requested. Make sure you are testing the correct URL and that the server is properly responding to all requests. (Status code: 404)","fails":1,"runs":0,"reqRuns":3,"ms":24818}
+{"version":1,"url":"https://coda-dijon.github.io/html-b1-2026-g1/Musiques/pages/Alba_Lheure_Bleu","updated":"2026-11-28T00:57:17.996Z","points":[
+{"t":1795801557690,"error":"ERRORED_DOCUMENT_REQUEST: Lighthouse was unable to reliably load the page you requested. Make sure you are testing the correct URL and that the server is properly responding to all requests. (Status code: 404)","fails":1,"runs":0,"reqRuns":3,"ms":24818},
+{"t":1795827413007,"error":"ERRORED_DOCUMENT_REQUEST: Lighthouse was unable to reliably load the page you requested. Make sure you are testing the correct URL and that the server is properly responding to all requests. (Status code: 404)","fails":2,"runs":0,"reqRuns":3,"ms":24988}
 ]}
